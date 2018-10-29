@@ -1,0 +1,176 @@
+html { /* From https://github.com/Famous/core/blob/master/famous.css */
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+body { /* From https://github.com/Famous/core/blob/master/famous.css */
+    width: 100%;
+    font-family: helvetica, arial, sans-serif;
+    background-color: #EAEAEA;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-perspective: 0;
+    perspective: none;
+    overflow: hidden;
+}
+
+text {
+  fill: #fff;
+}
+
+path:hover {
+  opacity: .7;
+}
+
+a, p, h2, h3, h4, h5, h6 {
+  color: #333;
+  background: transparent;
+}
+
+button {
+  color: #333;
+  width: 100px;
+  background-color: #fff;
+  outline: 2px solid rgba(127,127,127,.75);
+  border: 0px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgba(48,103,145,.5);
+}
+
+button:active {
+  color: #000000;
+  background-color: rgba(48,103,145,.75);
+}
+
+/******************************************
+  map-div = main HTML (div) container
+  for both D3 and MapBox exmaples
+*******************************************/
+.map-div {
+  position: absolute;
+  background-color: rgba(0,0,0,.75);
+  width: 800px;
+  height: 500px;
+}
+
+.map-div .map-title {
+  position: absolute;
+  top: 0px;
+  left: 10px;
+  right: 0px;
+  font-size: 30px;
+  color: rgba(255,255,255,0.75);
+}
+
+.map-div .map-caption {
+  position: absolute;
+  top: 450px;
+  left: 10px;
+  right: 0px;
+  font-size: 40px;
+  color: rgba(255,255,255,0.75);
+}
+
+.map-div .map-rollover {
+  position: absolute;
+  top: 460px;
+  left: 500px;
+  right: 0px;
+  font-size: 25px;
+  color: rgba(255,255,255,0.75);
+}
+
+/******************************************
+  map-container = SVG in D3
+  map-container = DIV in MapBox
+*******************************************/
+.map-div .map-container {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  right: 0px;
+}
+
+/******************************************
+  LEGEND CSS FOR MAPBOX ONLY
+  NOTE: D3 MAPS USE SVG LEGENDS
+*******************************************/
+.map-legend .swatch {
+  width:20px;
+  height:20px;
+  float:left;
+  margin-right:10px;
+}
+
+.map-legend ul {
+  list-style-type: none;
+  -webkit-padding-start: 5px;
+  -moz-padding-start: 5px;
+  padding-start: 5px;
+}
+
+#loading {
+  width: 100px;
+  height: 100px;
+  background: url(img/loading.gif) no-repeat 5px 3px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#loading-text {
+  padding-top: 35px;
+}
+
+#intro {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+#menu {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  #icons {
+    position:absolute;
+    width:200px;
+    height:50px;
+    bottom:50px;
+    right:25%;
+    left:50%;
+    margin-left:-80px;
+  }
+}
+
+@media (min-width: 768px) {
+  #icons {
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+  }
+}

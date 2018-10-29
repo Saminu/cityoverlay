@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>delimited | D3.js SVG Maps and Three.js</title>
+  </head>
+  <body>
+    <div id="intro">
+      <h2>Demo | D3.js SVG Maps and Three.js</h2>
+    </div>
+    <div id="loading">
+      <h5 id="loading-text">Loading...</h5>
+    </div>
+    <div id="container" style="opacity:0;"></div>
+    <div id="menu"></div>
+    <div id="icons">
+      <img src="css/img/single.png">
+      <img src="css/img/pinch.png">
+      <img src="css/img/triple.png">
+    </div>
+    <script src="lib/three.min.js"></script>
+    <script src="lib/tween.js"></script>
+    <script src="lib/CSS3DRenderer.js"></script>
+    <script src="lib/TrackballControls.js"></script>
+
+
+    <script src="lib/d3.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="js/legacy.js"></script>
+    <script>
+
+      d3.json("data/us-cdc.json", function (error, data) {
+
+        //**************************************
+        //  MAKE MAP LIST WITH TITLES
+        //**************************************
+        var maps = [];
+        var cncr = data.features[0].properties.data;
+
+
+        for (var key in cncr) {
+          maps.push({
+            elem: key,
+            title: cncr[key].title
+          });
+        }
+
+
+        //**************************************
+        //  CREATE BUTTONS
+        //**************************************
+        d3.select("#menu").selectAll('button')
+          .data(['sphere', 'grid']).enter()
+            .append('button')
+            .html(function (d) { return d; })
+            .on('click', function (d) { VIZ.transform(d); });
+
+        //**************************************
+        //  DRAW MAPS and ANIMATE
+        //**************************************
+        VIZ.drawElements(maps, data);
+        VIZ.transform('grid');
+        d3.select("#loading").transition().duration(2500).style("opacity", 0);
+        d3.select("#container").transition().duration(3500).style("opacity", 1);
+        VIZ.render();
+        VIZ.animate();
+        window.addEventListener('resize', VIZ.onWindowResize, false);
+      });
+    </script>
+  </body>
+</html>

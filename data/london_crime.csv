@@ -1,0 +1,933 @@
+Crime ID,Month,latitude,longitude,Location,Category,Outcome_status
+360f1958f2a6e45c4e49215af44f872182022624231d2f5e0170c2c4e83490f9,2018-07,51.51713,-0.107147,On or near St Andrew Street,Anti-social behaviour,
+2107c3f01ec07288b8032c8bb1651e90b85a7d6143ee79b5ef48081ea1c05d1e,2018-07,51.51445,-0.100974,On or near Amen Corner,Anti-social behaviour,
+cb587403baf9572e51a00cab723b1a5a76b45311ab1d82e155056226539c5191,2018-07,51.5169,-0.084095,On or near New Broad Street,Anti-social behaviour,
+e46ea295cde145dd2d5389f73d6cd5086f6c253f10affd54e9350e1f2f17dcb5,2018-07,51.5169,-0.084095,On or near New Broad Street,Anti-social behaviour,
+039e0a6dc5230a5c3858c81092b738728d2e3efe3304b9c8c0c635cad70c5345,2018-07,51.520085,-0.093057,On or near Theatre/concert Hall,Anti-social behaviour,
+14d6957d704ee92cf5b318506521208f86e03d7d503a182f089462a7bd70c3da,2018-07,51.5102,-0.084621,On or near Botolph Lane,Anti-social behaviour,
+11be634011b55ce547e30d81d8512d679d53d27d8eb302ed7a74338dd4ea746c,2018-07,51.510949,-0.084201,On or near Philpot Lane,Anti-social behaviour,
+100828ee353579442b5051d516983e18cc1fda1fa41f124c28b0bdce8f177ab3,2018-07,51.517923,-0.078488,On or near Middlesex Street,Anti-social behaviour,
+c483cd08dc3b00d0838e6ce67e799513e2e10b9ad867d6ce44d56d97979b1808,2018-07,51.517146,-0.098642,On or near Little Britain,Anti-social behaviour,
+c20131e71d1ec7f28c849118cd85ab20f3610fd74537e20c908a1bdc234acd80,2018-07,51.511322,-0.097213,On or near Castle Baynard Street,Anti-social behaviour,
+c095b57f743e3a73864692baff50933e857f1c0d8d6baf8f4faf718c18652f9c,2018-07,51.517288,-0.083618,On or near Broad Street Avenue,Anti-social behaviour,
+2e9e672608c87391509a8e4d4e56d4b2ec15cf261e5c7d29ead75466eeb43d80,2018-07,51.517923,-0.078488,On or near Middlesex Street,Anti-social behaviour,
+f93a7d470f5bcb9400229d11bc674191b680413a55bd2f073a23ef89666f6ecb,2018-07,51.513447,-0.093493,On or near Bow Lane,Anti-social behaviour,
+72977ae008fbf1a9e1d8ff450cb0e85add34815a43ea90d7b8202431317b8f3b,2018-07,51.514921,-0.103419,On or near Limeburner Lane,Anti-social behaviour,
+77f17619bf86620f6048316fa3650e594ae9006b69f7a80257556c7ac4679053,2018-07,51.514887,-0.109647,On or near Fetter Lane,Anti-social behaviour,
+146672cfc35503f636c6aad5bae4c74fc74d556e19f75cd5ecb347b7f7123e1f,2018-07,51.5169,-0.084095,On or near New Broad Street,Anti-social behaviour,
+0230e2dce244f997256b3fa60563dde2f57d4e17c26b4e8be15e2a4c48007079,2018-07,51.514528,-0.080952,On or near St Mary Axe,Anti-social behaviour,
+274aeb1dba84fa50ab9772d6e6944ab7f7de66014fa059dd4ce34e7e2a08edf3,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Anti-social behaviour,
+ba1091c79bfce169abf5bb12398aec48bcdb0812daf12f756049f783ebc51dfd,2018-07,51.515504,-0.07627,On or near Gravel Lane,Anti-social behaviour,
+782e8eb2ac40d76ad49c7b35f914454ae0f312d5e680af66c9ede77e2c544e60,2018-07,51.518619,-0.088621,On or near Moorfields,Anti-social behaviour,
+a9f0bbb35ce1b94e7dcfaaf46304397e87c942d00260abc079d6015ae734ad77,2018-07,51.513928,-0.108231,On or near Pleydell Street,Anti-social behaviour,
+4188356c9a3c97b5d9ea132790074839d0011fa57fbccc08165a9ced36002a44,2018-07,51.511435,-0.087581,On or near Nicholas Lane,Anti-social behaviour,
+26a923e55c9d4468018e78b20302893b23d6fc20948bdb3318b410915b735b04,2018-07,51.515882,-0.10668,On or near Parking Area,Anti-social behaviour,
+5ce79a0f7df5973182772d6d3e855cb728c7063990f8937dd29796953c05d998,2018-07,51.508066,-0.08778,On or near Borough High Street,Anti-social behaviour,
+867908fd5074f91d327165e43ea58541359a2f905ccee16d43539cb4414cf15c,2018-07,51.510873,-0.105561,On or near Ferry Terminal,Anti-social behaviour,
+e521e76bc4769badd1c6e8a2e65ff0c09f01c05ed4269d1be3ab04dfdd416f32,2018-07,51.508066,-0.08778,On or near Borough High Street,Anti-social behaviour,
+6ec048bab7a5afa88e989bed99d153c8d3b2c62608716acf31dc5d4fa42d1e72,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Anti-social behaviour,
+490d85ad71ffda506bf53109803bf21612fb2307a57f4cabdcbbd0a657ac0189,2018-07,51.508066,-0.08778,On or near Borough High Street,Anti-social behaviour,
+774b12f8684a3192e9c2ef7d1fc3d742cbc41af901a88431f1a517888ee5879b,2018-07,51.513869,-0.105134,On or near Bride Lane,Anti-social behaviour,
+ab73426c3ec931b9ae4258e3f915994543b02636e26a4d5d3ab161e0f70c8c75,2018-07,51.515504,-0.07627,On or near Gravel Lane,Anti-social behaviour,
+640bc3688a7628715d78328f63c06ef8de8f377ae8c2dbf56184312f3a53e601,2018-07,51.514699,-0.104134,On or near Old Seacoal Lane,Anti-social behaviour,
+4a36aee351a9ba5a6f6288ecaf3e988d7479a7f258cf4cf2dae7d941d80c6530,2018-07,51.517288,-0.083618,On or near Broad Street Avenue,Anti-social behaviour,
+9d1494320bfa8ba1069a9695c45e9963afaa2ec14bd84e197f6d836846f3dc8a,2018-07,51.5112,-0.085257,On or near Talbot Court,Anti-social behaviour,
+835e998721b0462e47d80e95887c11deb86276179bef7a4acb6c16d0976715ff,2018-07,51.510307,-0.086764,On or near Fish Street Hill,Anti-social behaviour,
+f0189b563b0e6384f215fb29a2ccace29f3fa05b9b4a80456ba5ff865b54ba9a,2018-07,51.519017,-0.099818,On or near Cloth Fair,Anti-social behaviour,
+61e5047257bec79d2013f0df344d291e2ad9f959caca04cee011a4a06b03fdb6,2018-07,51.517576,-0.079786,On or near Police Station,Anti-social behaviour,
+7456adfbd9bcc42b6b2ca88aa3007acc2e9dc83cd4084953aceb380fdcf64c2f,2018-07,51.513914,-0.11071,On or near Fleet Street,Anti-social behaviour,
+3b25ba63930c70942ea145f81882073a1911da6b2a4f12d2dec3042c9ba80ded,2018-07,51.514921,-0.103419,On or near Limeburner Lane,Anti-social behaviour,
+,2018-07,51.517909,-0.109709,On or near High Holborn,Anti-social behaviour,
+,2018-07,51.50995,-0.078665,On or near Muscovy Street,Anti-social behaviour,
+,2018-07,51.520609,-0.098138,On or near Carthusian Street,Anti-social behaviour,
+7d868b6b33ce0ae547be46a63e84aa434381dc43892d0a1979cc522c7643332f,2018-07,51.513627,-0.076435,On or near Aldgate,Anti-social behaviour,
+b0ad01ef368a7a215f628e40e462998d5c08caee0b987f655325204309e1d22f,2018-07,51.510828,-0.086166,On or near Eastcheap,Anti-social behaviour,
+3a22381e0eac4d2e19eddb5ae70835ced4140a411bc995cc5151894bb2ea6e84,2018-07,51.515173,-0.108453,On or near Pemberton Row,Anti-social behaviour,
+277499aa719faa4db6ae36a526b4dae0f250a613d63c4864a311f402c1c6c815,2018-07,51.514528,-0.080952,On or near St Mary Axe,Anti-social behaviour,
+dfe5e1e7a6503634adba7cb6d11cb6c29e95cac900a250cfb9d9756fbed53d87,2018-07,51.517577,-0.098062,On or near Montague Street,Anti-social behaviour,
+99eeb44d3313dca5755437fca4cb7f50ccb1e9f7279abd334045d05a001fd8b8,2018-07,51.517288,-0.083618,On or near Broad Street Avenue,Anti-social behaviour,
+fbe71a1a2af8a17ad936d83e7ff1c7f083bf9c1a7b53e00cdf4550094b8dffba,2018-07,51.509876,-0.086278,On or near Fish Street Hill,Anti-social behaviour,
+d3a1669131f97524fbbd535204abf8ee37108671613e7a5ec2ab06f24e1ea823,2018-07,51.510787,-0.096385,On or near Gardners Lane,Anti-social behaviour,
+8b25e805e70f9a7da5de0ed4ea796cd62c0ba577bfbe58770bde9fa23d470e4a,2018-07,51.510949,-0.084201,On or near Philpot Lane,Anti-social behaviour,
+db0cf36e1b5229a3b881dded6023d9d62160ce63c6fca2475e5397cb6a1eff0c,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+84f206a8dc6e2e56692384fdd0e5df6ec6fbf852bec56dfa229602156a771306,2018-07,51.513051,-0.104001,On or near Apothecary Street,Anti-social behaviour,
+755581bf4f86a915c2e98eac317d200690b169d44b722f13694c4200c8efd86c,2018-07,51.515484,-0.088233,On or near Tokenhouse Yard,Anti-social behaviour,
+2d51cb059e4c89442a9e299cfcca2b302e0f0e2f92107d61fc7bf4092ef36598,2018-07,51.515281,-0.084105,On or near Conference/exhibition Centre,Anti-social behaviour,
+1d4bfc7dd7eafef9fe106ea3d358ac6a4f4505955b348f6c8e360657c9a03ae4,2018-07,51.51118,-0.073065,On or near Goodman's Yard,Anti-social behaviour,
+e3ced3b1b3c43e4eb95e168dcb2f6acf5bfffe72233d224f26ecfe809331b713,2018-07,51.514409,-0.079674,On or near Bury Street,Anti-social behaviour,
+186964962a5e3a8c2279f505f3ccccfa5af2f99858dfad50fa04d660c211ca54,2018-07,51.517534,-0.09596,On or near London Wall,Anti-social behaviour,
+b495d9cfde3f799b6ae81369909dc6e106410169391d486c82412e26378fd23b,2018-07,51.520699,-0.097601,On or near Carthusian Street,Anti-social behaviour,
+a0755ddd29bc88ba09899784d5e8f52fc6b30aa3f34aeadd359f53f9f2ce99b9,2018-07,51.520875,-0.094033,On or near Shopping Area,Anti-social behaviour,
+f34bfe87eaca3c34813143c72c5c8c74875f83940cfb3f0048a37de169313bc9,2018-07,51.5151,-0.085669,On or near Austin Friars,Anti-social behaviour,
+42d2962441d98c68bff46e48b065e29071cda45cd5a4c815e358b11a1e40155a,2018-07,51.520747,-0.096114,On or near Park/open Space,Anti-social behaviour,
+6aa5c7c3e2e7c63739f6189dc671ebcbc234e8293a252ee1f3f280cef0f9342b,2018-07,51.518864,-0.097562,On or near Parking Area,Anti-social behaviour,
+376afc9755e5a3181f439510d06e2bbaf91ed31f925ded947bafceb6f5660c92,2018-07,51.520699,-0.097601,On or near Carthusian Street,Anti-social behaviour,
+6237581eeb06b4bbd2a2e7c4b0d361eb014a0f5557aa676fda4a864c4391c817,2018-07,51.511775,-0.075389,On or near Minories,Anti-social behaviour,
+1178ef62efd8c2bb5610ff8a62c8860000cc68ec2cef7be083bba177c4c852bb,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+0873f072fb574b79283de615c71f33c1d9820fef5183a4b1d9e9737600658a6e,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+faab1b96284338c2503170ef605a62e68ffa73b07ab2dd082128c61ac20aa24b,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+698bea9d78246bc039532ce78fd547e91a78c2611cd9bee78e2deb54ff45ea6d,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+99c03a69af854ef58e89f36cc39b0faa2cd5859167353aaca4c863bc4c4b1a78,2018-07,51.511449,-0.1045,On or near Victoria Embankment,Anti-social behaviour,
+,2018-07,51.520059,-0.084251,On or near Sun Street,Anti-social behaviour,
+4041e102ad4d10816c310e1c22a973973f9504a33e622ae51a07c7ba9bb73ecb,2018-07,51.514151,-0.074958,On or near Aldgate High Street,Anti-social behaviour,
+be47addbcb8f60566a3d7fd5a36f8195798e2848b368195d9a5d20e007c59a0c,2018-07,51.517576,-0.079786,On or near Police Station,Anti-social behaviour,
+2eb4db41c23974b95419985074d8977c64b7593910571264fd4fccd240bff2be,2018-07,51.511594,-0.075844,On or near Crosswall,Anti-social behaviour,
+5439525534ea081a0d1922d2e71a625bc4ec77c00bba337734cc7132249d794c,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+97c635c719f09dbd18fa88afa0ff111830df8c5f62e8f7624026c21f1f1f493b,2018-07,51.520678,-0.080318,On or near Primrose Street,Anti-social behaviour,
+06163781b34cbf1301ba79c9cadd44eab0b445073b4133db752664c5d2a48529,2018-07,51.515606,-0.094094,On or near Gresham Street,Anti-social behaviour,
+ac63607cfc322e4867d43b1587a22119a88c61eefe21128bc588c1678484a014,2018-07,51.510787,-0.096385,On or near Gardners Lane,Anti-social behaviour,
+aeed1cd07b966370dfc2a6d719e54aef8b1bccdf49ad6ddc60f984e13876573e,2018-07,51.511014,-0.076113,On or near Conference/exhibition Centre,Anti-social behaviour,
+bb80ca29ddd6d9a7460d07ad00ff55ee8383c9e657421c921d8f2f7f2fad4ba7,2018-07,51.514109,-0.10328,On or near Ludgate Hill,Anti-social behaviour,
+ef2b32d0836f459a0407a6cb4094e81b2fdd01eeda3dbba76c02e1dbe24129e0,2018-07,51.517923,-0.078488,On or near Middlesex Street,Anti-social behaviour,
+5e12fecf37fa71ced0fc333a22668a603e095113e16253e0e6f94f0f99840415,2018-07,51.520678,-0.080318,On or near Primrose Street,Anti-social behaviour,
+deb816b7635a781e68c89f9bc553574d2add4a76bc068da54a57e2cfe2b3026a,2018-07,51.510182,-0.092865,On or near Parking Area,Anti-social behaviour,
+719bed32baf7b358b368d4f355f8bad92b7d7987f2ebe7a4fa829e94bf97014a,2018-07,51.515849,-0.077596,On or near Artizan Street,Anti-social behaviour,
+32e3f91fc3148aa7454d8cf296b828dbcffbf26f81d686e25e7883c41193581d,2018-07,51.520678,-0.080318,On or near Primrose Street,Anti-social behaviour,
+91bad7e5bbb989ebb6311106577ac2687093cb5294c3f581b476f6348ded9eba,2018-07,51.517576,-0.079786,On or near Police Station,Anti-social behaviour,
+3f484baf5ab974d190670f50495aa98ea539157d9bdc9fd44078fd9fb735cafa,2018-07,51.518511,-0.08531,On or near Eldon Street,Anti-social behaviour,
+6411f9d43f949f56d4679e33ef9628b486416b94d9439b5f18c4ab56de1e9b0b,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+01c608b1cc58fbebbecd9a6b7c1d7c6c3e4f7f13a8948bb1f1821b72de11f5d4,2018-07,51.51322,-0.095015,On or near Watling Street,Anti-social behaviour,
+a0e2d15dc2254fb1e2353b59e7a5ca45e22a996d9741cb272963b0b035f9886b,2018-07,51.511625,-0.081549,On or near Mincing Lane,Anti-social behaviour,
+a95bcd7d2305a9600c1bef58718d5c886a664700953f95f9be5381398450445b,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Anti-social behaviour,
+3f2c395859e12f570805c71dd9eff596c3cabc4404f22a51f0a6f791c6fd692d,2018-07,51.520085,-0.093057,On or near Theatre/concert Hall,Anti-social behaviour,
+ba3d50490f06ce7da7f7595e37303fdf63171a182b591a84c4dc965f716c27e3,2018-07,51.517576,-0.079786,On or near Police Station,Anti-social behaviour,
+2d74fe20057988b0bbf7eb7ef610b8d296dd5cbe7680449165965aadb9eeb0db,2018-07,51.520658,-0.094546,On or near Beech Street,Anti-social behaviour,
+aa4dc3e64d71ee2e49fd0437a3396ac05986f2cfe36d2741d430dcadf91146f3,2018-07,51.520747,-0.096114,On or near Park/open Space,Anti-social behaviour,
+f6f918c910434c6bae627c13d920ee004d3610e18120fd9833d48b745ce0f560,2018-07,51.521853,-0.094468,On or near Golden Lane,Anti-social behaviour,
+8a16f6c8171ca76c9afc39f1f31e0fb74617b22512cdf93b69db9bc7d2d2aefb,2018-07,51.516719,-0.089536,On or near Nun Court,Anti-social behaviour,
+107b8aabc6d14b7dd55f0eb25ba78d16530caac673dc0e1f9d9dbecc9f8bb7c5,2018-07,51.51768,-0.078484,On or near Catherine Wheel Alley,Anti-social behaviour,
+9b7fe5bd218ccc9e656e001c7a2e1a4534b1ccafa2674cf6b67b517d70cb94e0,2018-07,51.511322,-0.097213,On or near Castle Baynard Street,Anti-social behaviour,
+a66abe576d2ffa960bc752875e49b8bc85e8ca8ef373f4a6ecd7951d8be22c53,2018-07,51.517058,-0.083296,On or near Old Broad Street,Anti-social behaviour,
+d80df505b5019dce4da3c398cf9c56c4d8e7f46676d385d5db8f3aefac11e378,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Anti-social behaviour,
+945d5b4940e0d522aaf37b4e6790fadc5cd95b3dd05054a9b8c42880be42caba,2018-07,51.520875,-0.094033,On or near Shopping Area,Anti-social behaviour,
+71a51dde8ad6af5c0e7f4242dc4df1781825ecbaeea76d6ba39f6ab8e5876df9,2018-07,51.509466,-0.082058,On or near Cross Lane,Anti-social behaviour,
+b391b02e66f29769aa84c6541108a3539889eff0199251d35036dcceb9d8fbe0,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Anti-social behaviour,
+21f0773d62972d37ad922ff4f2bde831e530caca1f54986c5d7496464f55971a,2018-07,51.509876,-0.086278,On or near Fish Street Hill,Anti-social behaviour,
+0f6004b615adbb8aec4666409a15fc8ddf8e14eea506cf08a8f3d7385c16fe9d,2018-07,51.520747,-0.096114,On or near Park/open Space,Anti-social behaviour,
+1fbe7a5a15a13744436b31302474da1013fcfa53a4e62ea3a2cc09bb8f543b70,2018-07,51.513928,-0.108231,On or near Pleydell Street,Anti-social behaviour,
+204f6a608b6208df9e0c6d426085d0db87ef60c4f32a943b674e8f50a2c77527,2018-07,51.518029,-0.082722,On or near Pedestrian Subway,Anti-social behaviour,
+a48343cee205107bf1f3e27d96469761623f9e443abba5e461520cf4d11941f9,2018-07,51.515657,-0.079607,On or near St Mary Axe,Anti-social behaviour,
+5c5b6b764f37307226f05ee8d2f926a13415f664a1b7fec5660a4e239b9802f8,2018-07,51.515657,-0.079607,On or near St Mary Axe,Anti-social behaviour,
+fe4b5aaceb85434cb5ab2dd46e956d10971a5de67e5f81c344e312f83b55f19f,2018-07,51.517534,-0.09596,On or near London Wall,Anti-social behaviour,
+9df3b66087883f6fa4f743d19c206f613361f627f5e5967d5918ff120c6bb240,2018-07,51.5102,-0.084621,On or near Botolph Lane,Anti-social behaviour,
+8c0f3775b0da56b1a18a7e6c633364dd938f65ecf1ae8557c371e214f7d96f73,2018-07,51.514204,-0.106922,On or near Fleet Street,Anti-social behaviour,
+2fd3d044dc8c8751bf96351618542a665ce2024c12be7461424c6d49199a9bba,2018-07,51.518433,-0.078856,On or near Artillery Lane,Anti-social behaviour,
+0f1da39afdda48639ca729aee62558b0a8c2f6956e93a450643656725fe51704,2018-07,51.518029,-0.082722,On or near Pedestrian Subway,Anti-social behaviour,
+ea3fdb8a0b5a7dc39915258b4760a61c4c2f5f7900e0c68ac0b30d260de3e171,2018-07,51.51118,-0.073065,On or near Goodman's Yard,Anti-social behaviour,
+96b17d1106a9b05ec792f6ad761f95816ee009caa7bd0aae24ab3a928c461802,2018-07,51.510961,-0.10269,On or near Blackfriars Underpass,Anti-social behaviour,
+d03bca388f94a16ee3f6d0705957433c1a2a87465675f6ca879c589cf68b367d,2018-07,51.515504,-0.07627,On or near Gravel Lane,Anti-social behaviour,
+571dec3605e85a8fbc0b4ad08182b4d21ecf100678ef986a89f0a105450d2430,2018-07,51.513148,-0.083417,On or near Whittington Avenue,Anti-social behaviour,
+46831674ba44ef6f98a60b3f02d16c70fbacd87d522101791d480de65736edb8,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Anti-social behaviour,
+dd5b94e312075a22bfb5a25ba76b1d32c8b4fa2f07ad2c56845200ca7293fd04,2018-07,51.508587,-0.078924,On or near Petty Wales,Anti-social behaviour,
+3f7a43a17a2ba6d1c1d1a07c5ca2a6a731356e78c2d7108071c03a6314fcf8cf,2018-07,51.523156,-0.09721,On or near Baltic Street West,Anti-social behaviour,
+c8a57a5fac821a8b6c9b342ada4eed3e448bbba1ab61b90b5412c0c13f705a3b,2018-07,51.513148,-0.083417,On or near Whittington Avenue,Anti-social behaviour,
+58b9a8112cc12a4ab58a8005514712f3f8cf2ea99e021bdefafe2a779b4a714d,2018-07,51.521853,-0.094468,On or near Golden Lane,Anti-social behaviour,
+526c34f80d9f9e77a41c1d512f4e7368c6b3350dbcede71e7ea2782ec657b9f2,2018-07,51.510894,-0.086393,On or near Eastcheap,Anti-social behaviour,
+6c9bd1eeccb7b62dbab9e8841f96c4c55279fcb4ef87f5cee9c55349665ed4a6,2018-07,51.521853,-0.094468,On or near Golden Lane,Anti-social behaviour,
+e7b4e9967ffa8e6ec1164e713f98d5a1b58be7ad6d938711b4b892a3c5052ef2,2018-07,51.520678,-0.080318,On or near Primrose Street,Anti-social behaviour,
+63f05c00074a928a0c689270b70a121e3e9058b5899e3873df6fcb9ab377a5f9,2018-07,51.519807,-0.09144,On or near Silk Street,Anti-social behaviour,
+0c0c6289d2f3d855ec18d02df8c9d87255e6762a9e8b34bcd7750e26d25a82e2,2018-07,51.515307,-0.097277,On or near St Martin's Le Grand,Anti-social behaviour,
+eee97026c6ba4328cae107ad1cd5b2934cedd5550d442b51ce7fac267b60896d,2018-07,51.516719,-0.089536,On or near Nun Court,Anti-social behaviour,
+333d6f2b92f783a9ca1a017c1ed783d5019033bae043bdcb409eb8760e89bb49,2018-07,51.514528,-0.080952,On or near St Mary Axe,Anti-social behaviour,
+d78d33af2ffb2aadbae30935291bb8ff9eb4b72ad17e0e0a2c941c3a70d0024e,2018-07,51.514204,-0.106922,On or near Fleet Street,Anti-social behaviour,
+82fda34af990f9a1ed665d71dbdae0066e2ca1b0016129b939ae05ff84692305,2018-07,51.512856,-0.073254,On or near Mansell Street,Anti-social behaviour,
+08ae804484bb82a197f31f996130bd9d05ef5b2c9beff2160ed6644c7129f1a4,2018-07,51.514763,-0.075508,On or near Pedestrian Subway,Anti-social behaviour,
+6ab95d4921c95e0096df9bb4c6575723a81c78f71a1ee0c0ddddadbb4f1b4211,2018-07,51.515173,-0.108453,On or near Pemberton Row,Anti-social behaviour,
+269462f2f184287b76cb838a52c5572503f8c868f2e6883690270c26f19a86ac,2018-07,51.513377,-0.096363,On or near New Change,Anti-social behaviour,
+3c58c91230944cbf6a73f8361498a3078170642e88b1453e5c0c13264082b19f,2018-07,51.509876,-0.086278,On or near Fish Street Hill,Anti-social behaviour,
+448af9116312bec4e7fc96eb84e40b334da166f0be4e4d22792a0290eb8c9e48,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+91884d4485e71b08867b3f571f04500e327b81bcf8cae6e705ce560944f47e50,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Anti-social behaviour,
+8e81dfd75fc1ecb648e59579e27d98f2c675bff76bbf36a3824dedc6926cf95a,2018-07,51.514699,-0.104134,On or near Old Seacoal Lane,Anti-social behaviour,
+73119072cebe1aaffb46f8ec0b6a0e650910836030e8d67a4792ebd4a5d39fef,2018-07,51.513569,-0.086051,On or near Finch Lane,Anti-social behaviour,
+53660b6e0117ea45c6d3c1547b2823dabdd5d8d8c1c2d7867f100b74534c65c5,2018-07,51.516414,-0.107926,On or near Bartlett Court,Anti-social behaviour,
+259ff5a5d813a32f56c192f6bfd00da44c96587e4d41ba869fb9f05510ba6b2f,2018-07,51.509532,-0.088843,On or near Parking Area,Anti-social behaviour,
+9e50cb54f64a98f2bbd561f1666d2e73b0eae5ba22751a80b4cf1ae782a5c305,2018-07,51.514887,-0.109647,On or near Fetter Lane,Anti-social behaviour,
+5e5c29157b41467ad78ba6bc7e9ba8e4c2d1c0a5812077ca53f3dc51ecbadaa6,2018-07,51.509532,-0.088843,On or near Parking Area,Anti-social behaviour,
+711de451baa6e4bb46c9d187443c1212f97bc84c2bf173a09f75bbe8480b87bd,2018-07,51.515173,-0.108453,On or near Pemberton Row,Anti-social behaviour,
+0e80133b868308bd6ffe90b9ee5a5ae5aa37756ca76ee1912de5adb54919c4b7,2018-07,51.516719,-0.089536,On or near Nun Court,Anti-social behaviour,
+34aed1b85167506ef71865274a8de8d35511388e2afbb6566b1a9fcc531e2506,2018-07,51.513132,-0.09071,On or near Queen Victoria Street,Anti-social behaviour,
+ea26b49783f51d8b758ea6dcfb3bc844674ca3f2966556542cd9f31325d52a38,2018-07,51.513377,-0.096363,On or near New Change,Anti-social behaviour,
+2494d8fd192d72e824ff2c972709f99ced11a1d64d31b85241a51102c958c125,2018-07,51.513389,-0.080034,On or near Leadenhall Street,Anti-social behaviour,
+9b22d9bba2be6b73836b31da493eff0373960728acc753e4acfa3581792c8c55,2018-07,51.518077,-0.093948,On or near Monkwell Square,Anti-social behaviour,
+8e950708da835865f17757b9e8bcae9f8b662198a55b49368936c16d0df9d99c,2018-07,51.517244,-0.080376,On or near Supermarket,Anti-social behaviour,
+04db365d0f4a1b0d4cee87d292b1ae7d86b40e6bdb4f25dafc11d81c1b9ba369,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Anti-social behaviour,
+19acf62c2bbc1143cf608313808a614326cfd34d0e24eab180e50a72dc4874c5,2018-07,51.516165,-0.102502,On or near Green Arbour Court,Anti-social behaviour,
+b84af7409feb75b1659fcde8cf9df85900b6d38688bfa2fadc5bc47b0a169a10,2018-07,51.515882,-0.10668,On or near Parking Area,Anti-social behaviour,
+2a25c6acacd8e254be4453dfc378881e40d24c6ec8d1de968bc16b0c8d97921e,2018-07,51.517576,-0.079786,On or near Police Station,Anti-social behaviour,
+b62b910db6e470995a59fa0bd117d13d8677c474d0512e9bdd11da5a95c535a9,2018-07,51.517288,-0.083618,On or near Broad Street Avenue,Anti-social behaviour,
+555fed57544a9fb3c310fe3437f7ccc22f2ff0e9e4c35aed8f50d878077c9c2f,2018-07,51.513885,-0.102741,On or near Pageantmaster Court,Anti-social behaviour,
+ae15b5a00b8a355bad33168622d26203d5836f70ba02dda76a715a48a03d0cbf,2018-07,51.52051,-0.08158,On or near Pindar Street,Anti-social behaviour,
+1379f22438294731bd01f124035b820fda1c502e339200769ce32d0ddce42734,2018-07,51.52051,-0.08158,On or near Pindar Street,Anti-social behaviour,
+0d1765e5bc6462f5f49315f45957c7a911f7119f5856ea28acc7e40624524f5a,2018-07,51.515504,-0.07627,On or near Gravel Lane,Anti-social behaviour,
+111b6f5767b14ae5c7a60acb8e936ae047414d2d14b00aece6c1bf19bceee435,2018-07,51.520875,-0.094033,On or near Shopping Area,Anti-social behaviour,
+3a4a105354dc345afaf71ec3794540f7472879113d1543621ba6de840fec56fa,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Anti-social behaviour,
+a9896581d40116bf5d120d5b1f4a5ca0485eb9c0c45d20b872bf566474396bf8,2018-07,51.520875,-0.094033,On or near Shopping Area,Anti-social behaviour,
+39ddb3f07df9e72ae5ea8c68207415650753eded41b2311508c3eaa153e19e5b,2018-07,51.515281,-0.084105,On or near Conference/exhibition Centre,Anti-social behaviour,
+3455ad1e7723f20839535bd71823c0c2aa96ecaef3020f440beb0e004a9f95a4,2018-07,51.509614,-0.079011,On or near Pedestrian Subway,Anti-social behaviour,
+0e3642650bc04ac1d95256309e02fa8ffeafb87968e3623cdd6592f501472de5,2018-07,51.514763,-0.075508,On or near Pedestrian Subway,Anti-social behaviour,
+9add8184d27caeea758597c93da18f3de11e2388686a7e4826c6b9eb4202fe69,2018-07,51.51477,-0.101307,On or near Amen Court,Anti-social behaviour,
+9bdf485c97853edc3383e8ca29015246a481e12d3356facb93f99fc33e77765e,2018-07,51.516922,-0.092093,On or near Basinghall Street,Anti-social behaviour,
+dfb2975934739c98ec1691ec2071dcfcfd3cfe0d842f985e4b03e00562f922b4,2018-07,51.513524,-0.090506,On or near Poultry,Anti-social behaviour,
+e2f77e574bb514e6c0de06101ccd9a74b20fb334035871f30b7ccd3f878fa160,2018-07,51.51713,-0.107147,On or near St Andrew Street,Anti-social behaviour,
+f3bb845c20e49645ad13775159669457444cc77201b908e8fa35094b5cc8552b,2018-07,51.511594,-0.075844,On or near Crosswall,Anti-social behaviour,
+bc71ce5bd35f3ae9a2711f932999ba3382da17898757db747e2248de9e86f328,2018-07,51.516067,-0.089838,On or near Coleman Street,Anti-social behaviour,
+4d34e9912a6f38a1ad9d69fff897f2d7567c0fc39eb2d30188525adb1057e18e,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Anti-social behaviour,
+3848f5120551f0d181ea34a2a99d4a900e48fa4d0225543c0a039bca287b0174,2018-07,51.51713,-0.107147,On or near St Andrew Street,Anti-social behaviour,
+fd822fc4d2c6095b0a0e0eacd6ea5d509899a68df9a1f7b4d8bfb312422aad61,2018-07,51.511578,-0.083079,On or near Fenchurch Street,Anti-social behaviour,
+4e969df5f6535c08df22ed3a5d421773deb7d69c997843013f65476c9a6bec73,2018-07,51.511122,-0.087666,On or near Cannon Street,Anti-social behaviour,
+ae51e04adf61f3ee411247ceb98372bdb55f43568aaaf92e650ded460974c003,2018-07,51.518433,-0.078856,On or near Artillery Lane,Anti-social behaviour,
+e01b91ec014c4ac68716c83987de0f43d1c98be3dad993f9fc4c0ec20c09eae7,2018-07,51.517431,-0.082458,On or near Liverpool Street,Anti-social behaviour,
+b1a2f7481baf37163f4aed4cd01312ce31929b924231bcb587e168c5af961b26,2018-07,51.5112,-0.085257,On or near Talbot Court,Anti-social behaviour,
+ee0b3bf2a42e2e79225143e8ade193538190c9a08c7e2ab117f0ca71c39a3427,2018-07,51.515331,-0.089364,On or near King's Arms Yard,Anti-social behaviour,
+3b8e2ccdb0380c75b1418a25b70edccaa9c731958930f9d36ad2694bba884fe4,2018-07,51.510894,-0.086393,On or near Eastcheap,Anti-social behaviour,
+07c870abde3f5840cc198db3abe24ef782facb869d577dfa8ae6ff0685422758,2018-07,51.515331,-0.089364,On or near King's Arms Yard,Anti-social behaviour,
+41d348a75267d50284b61659c48a7d9a624092d667901ea5b3bfe425a67ae1f9,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Anti-social behaviour,
+2487157b909aa5ea5743896f9c262d42c9df842aac57322db94faf28ae0fe009,2018-07,51.517576,-0.079786,On or near Police Station,Anti-social behaviour,
+b24261d443fbdf8876d205781638c4424d8a8301955608352e80610b5290c38d,2018-07,51.510182,-0.092865,On or near Parking Area,Anti-social behaviour,
+ad6abe0d3a7b6d2524b14403798b1c7c73f126d8104feb9a1d44e24ab72445b1,2018-07,51.510913,-0.101395,On or near Blackfriars Underpass,Anti-social behaviour,
+8d7d546e9a6f90611f570415d71c2193bf6de0a022e493fb5118c3a7e1ffb9c3,2018-07,51.512856,-0.073254,On or near Mansell Street,Anti-social behaviour,
+81beb2d22ec5aa69b2181cde1fda1b4809c0d6cd22a50c838674480e8636deb5,2018-07,51.520699,-0.097601,On or near Carthusian Street,Anti-social behaviour,
+bd3b008b289648d112f29b1b76e81ebf3cc5fc5f407dbef4ee91d22dcd2d71f4,2018-07,51.509876,-0.086278,On or near Fish Street Hill,Anti-social behaviour,
+079269bd15d669c18e4a3293a55f361f6ef8651fb9a1cf066fc2ada0fac944a1,2018-07,51.519017,-0.099818,On or near Cloth Fair,Anti-social behaviour,
+43f8baa6858011dd67f079c3080995af3265afa8842caacf06aafb16f8b9f141,2018-07,51.509757,-0.083386,On or near St Dunstan's Lane,Anti-social behaviour,
+4852ea747b15cf7587436cb53c2f618c81ae7aafdff448ee6c114411f782fe6c,2018-07,51.517058,-0.083296,On or near Old Broad Street,Anti-social behaviour,
+41f9df3328f23296d874a399c06d39cc8bb45aafe57de044e44af8fd7277081f,2018-07,51.518949,-0.092297,On or near Park/open Space,Anti-social behaviour,
+12482da99aa833d34775ef104071347563370416eabd814263f467f8f1c7bf62,2018-07,51.517196,-0.085149,On or near Blomfield Street,Anti-social behaviour,
+e42d812fa1985cb537e1b229ef220b5ed7f90a657c7b2d8e78094179fd786b6f,2018-07,51.510894,-0.086393,On or near Eastcheap,Anti-social behaviour,
+02c14d51fa3683d489e92949bae313fe562047563fb8e38248ba4f67044861f7,2018-07,51.520059,-0.084251,On or near Sun Street,Anti-social behaviour,
+1827d1df185bf46c33d46b8d1b89f25ec1e5563a15e5d31feaa3dbfb2246a010,2018-07,51.514358,-0.083755,On or near Threadneedle Street,Anti-social behaviour,
+1852a4de717670118cda721340eeb1f6713745f223f1da0a61e537f48499fbc5,2018-07,51.509532,-0.088843,On or near Parking Area,Anti-social behaviour,
+07f7ab3dab0cf5f96b8f860cd99dc030db6168b791465274343c545424c21205,2018-07,51.509532,-0.088843,On or near Parking Area,Anti-social behaviour,
+bf70c818b595e87439c168a0cebb8b62d0b4fdf1361ee70380fa1d1f971f6996,2018-07,51.509532,-0.088843,On or near Parking Area,Anti-social behaviour,
+054de954752980d177c661c3dd42be9512ae8fcb19385101ca2e1e21b0355c6e,2018-07,51.513435,-0.075146,On or near Bus/coach Station,Anti-social behaviour,
+6e481d77497d92846ba73217fca246234c0043395de9644d32a442aabd6d0c14,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Anti-social behaviour,
+246a69a060f0d61473160a2006a5945546f3748ad03b4720e2f97e135c751107,2018-07,51.513199,-0.087118,On or near Nightclub,Bicycle theft,Under investigation
+df1ec50d9773c16b2b1e7b01dc8dbb98057f0eae22687c6e4efa7c1b6b7fb2db,2018-07,51.520206,-0.097736,On or near Conference/exhibition Centre,Bicycle theft,Under investigation
+6363a52035c631819584594ac4f99280d1a0ef94a6dc82bd4c9db2047af9c2b7,2018-07,51.520206,-0.097736,On or near Conference/exhibition Centre,Bicycle theft,Under investigation
+e1c8fad82f7351cdcd60ceb4d23f075974014836c311841b5470ad692efcec23,2018-07,51.520206,-0.097736,On or near Conference/exhibition Centre,Bicycle theft,Under investigation
+60b1bcb68cb688cf9eb50c984c1d2b5739daf7be21dcd4c8a5d4cd77e208dd41,2018-07,51.512856,-0.073254,On or near Mansell Street,Bicycle theft,Under investigation
+47a88b2e8bf1c8118bc25c5de48cfdd89b74a0d1d07ef234d8035f04c4e20569,2018-07,51.509344,-0.080665,On or near Pedestrian Subway,Bicycle theft,Under investigation
+710785c2d76a709e8f5c03cde3b5d8d442de930fc28b3a750566d6e60a007844,2018-07,51.51769,-0.084566,On or near Blomfield Street,Bicycle theft,Investigation complete; no suspect identified
+ba0380f157678dd4a886d4de78c6814d57339282b9099bf17861b4e09639ac36,2018-07,51.51206,-0.074613,On or near Haydon Street,Bicycle theft,Under investigation
+0d163df128cdbb6e6ac16acd9c94815f8a3d789a8e1c1373d1dde4885193760b,2018-07,51.5169,-0.084095,On or near New Broad Street,Bicycle theft,Investigation complete; no suspect identified
+d8953a73e303d1bd81b80d2a4da5894f5ccfb20cf7ff5fb73864b1b88d26dabd,2018-07,51.516283,-0.080446,On or near Houndsditch,Bicycle theft,Investigation complete; no suspect identified
+a5a436bb82a0c258aac4367bc2e12e7e4057ffa0e710f3e5ba27bc5ec5fab47a,2018-07,51.516233,-0.077392,On or near Harrow Place,Bicycle theft,Under investigation
+2a043e12ba9ec20565cedf73b3c1527777be07b9ebc8a31622413a20cdd477d3,2018-07,51.511922,-0.096511,On or near Queen Victoria Street,Bicycle theft,Under investigation
+c6e1611904caf3feeb45837bd5b2f4e07687e987eb39407150ba8e9f27bd65a5,2018-07,51.51768,-0.078484,On or near Catherine Wheel Alley,Bicycle theft,Under investigation
+53366e9b649b5fd35d9be8c9c347039faed6487add193a3abd539bfb69fe4718,2018-07,51.50932,-0.084701,On or near Lower Thames Street,Bicycle theft,Investigation complete; no suspect identified
+a64f6194b4dadad5ea1e64b6a251f175fc052a8df551db854e782145b1f5a7d7,2018-07,51.520206,-0.097736,On or near Conference/exhibition Centre,Bicycle theft,Investigation complete; no suspect identified
+29aa27528a00d7bf258654de0bb0b03512ae175662f8f45a6954165b417eeac4,2018-07,51.511749,-0.108018,On or near Temple Avenue,Bicycle theft,Investigation complete; no suspect identified
+a364870f2f6ffe1826a7d73df9fb3a71f460fdd2f2c2a4380c99a4042f0ddbec,2018-07,51.510014,-0.081516,On or near Great Tower Street,Bicycle theft,Under investigation
+b2f9cf7b7325093b35ee4e5575ab02d78dfa5592318cad7c2c4fda108de0376d,2018-07,51.512147,-0.092077,On or near Tower Royal,Bicycle theft,Under investigation
+fbeaacd196bf99f7a79d306a56133aeab8d26f6e7328b0b6243a1faf08f9c22c,2018-07,51.51265,-0.101452,On or near St Andrew's Hill,Bicycle theft,Under investigation
+cbf1d4e6a3806fef9c741f85fad51c8d5f5de070a719be61f31dac2a39f63447,2018-07,51.517612,-0.09303,On or near Parking Area,Bicycle theft,Investigation complete; no suspect identified
+572d905fb649c8b5c80b4e616c659b99dfbd9daea7058be50da8314575729020,2018-07,51.517431,-0.082458,On or near Liverpool Street,Bicycle theft,Under investigation
+a8fc545435a02c4757b9e06e93cf66680af0d49b94f4fdd5b10f089ac8035555,2018-07,51.511529,-0.091108,On or near Cloak Lane,Bicycle theft,Investigation complete; no suspect identified
+003d0ed9809c4a9b238649e75acf86e2e8dbb3dab4be3c05c1ae05f00d05d964,2018-07,51.516703,-0.093558,On or near Police Station,Bicycle theft,Investigation complete; no suspect identified
+c13757e605c61ffc3a9ac5a10491152e052962c5dd80666ff928c9762b506b0c,2018-07,51.513007,-0.081938,On or near Lime Street,Bicycle theft,Under investigation
+31457e0d73cbadd7ff3fd21d6f79cb645fa2b4309a58cb9ef6cf8fab6bbba26e,2018-07,51.511889,-0.093341,On or near Great St Thomas Apostle,Bicycle theft,Investigation complete; no suspect identified
+42c02a325870aad43fe595fb01cba8b29fb05c868ae269c2c70e246e40efaa3a,2018-07,51.511578,-0.083079,On or near Fenchurch Street,Bicycle theft,Under investigation
+f36f0de699f45a158926ab0ea2ca34b53239792360906ff8ff90c1421ca3b02c,2018-07,51.517431,-0.082458,On or near Liverpool Street,Bicycle theft,Under investigation
+76c7f6362252e0e4708f6939b865dc61b91b625909b4db4989474042b85284f5,2018-07,51.518949,-0.092297,On or near Park/open Space,Bicycle theft,Investigation complete; no suspect identified
+7a5b9416919d9b5a6d1d71fdf7f101e94e44b08e69510acdddc71d40591b6a03,2018-07,51.52058,-0.092517,On or near Whitecross Street,Bicycle theft,Under investigation
+1959caeab0b398287d5a8245127f197da03fd4a5edc07575ea202b23c58148be,2018-07,51.510182,-0.092865,On or near Parking Area,Bicycle theft,Investigation complete; no suspect identified
+9a1bcb2735ca72b028b31283302d02960ccd7302eb8c4ae7b786ef8cd34b260b,2018-07,51.516767,-0.098572,On or near King Edward Street,Bicycle theft,Investigation complete; no suspect identified
+01232b39cfaf33809fd23072cb8d07a42c2350baf37eeda66ead78baee1b3e67,2018-07,51.516703,-0.093558,On or near Police Station,Bicycle theft,Under investigation
+5e6edd3d3fa603f4d219cbbee0a3aa10015e3670dffda053a80b0b2125c5d250,2018-07,51.512504,-0.083645,On or near Lime Street Passage,Bicycle theft,Under investigation
+a2ab3114518af101b943b284a1a12184b556e896d95ced1e68f6d159b7c52b01,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Bicycle theft,Under investigation
+c0eec4220eb2d69a4acd2210c28eb1333306542782018d8a9e10e967b5317ca5,2018-07,51.520085,-0.093057,On or near Theatre/concert Hall,Bicycle theft,Under investigation
+3259524f6c877b3e1b197847e4c244f0352b9c61747f753fc5f818aad7235f58,2018-07,51.520085,-0.093057,On or near Theatre/concert Hall,Bicycle theft,Under investigation
+e31dade5292484405ef355399c709d6d331bf883e9c8f9a02af2da548da38734,2018-07,51.517568,-0.112519,On or near Southampton Buildings,Bicycle theft,Under investigation
+4827db8da6f3e78dc2520255af8cf98a8bbda381f5bf6c0a0bc78d81fe8cf249,2018-07,51.519807,-0.09144,On or near Silk Street,Bicycle theft,Investigation complete; no suspect identified
+c2a202b8e18e57cbd3e8eefaf4f88a2f6f7cf57cb62aac0653a48f679dff23ae,2018-07,51.520085,-0.093057,On or near Theatre/concert Hall,Bicycle theft,Under investigation
+90c1580ff3eca8d8f480dcdb3e28c4838bf5f4f5206d71e5004b85fb47755a77,2018-07,51.512952,-0.096814,On or near St Paul's Church Yard,Bicycle theft,Under investigation
+0f338074b29e372b3fe1c27fce49bc0b523e61823264911d71ebfd7167cd86fb,2018-07,51.517032,-0.089451,On or near Bus/coach Station,Bicycle theft,Investigation complete; no suspect identified
+ac5eb4ddc504c3a813c02a0d40cdc1e4b0d851c5a429ee88af7f389455266b2d,2018-07,51.51868,-0.085173,On or near Finsbury Avenue,Bicycle theft,Under investigation
+13b561f2b7e557887a00b40bc56613e8b855ff77d2102a3fec8773a5e29ebfbe,2018-07,51.516347,-0.104887,On or near Farringdon Street,Bicycle theft,Under investigation
+6f181dd55bd95377fa0180b826d2fe22e927e235199ce06038e103389d41a9dc,2018-07,51.5151,-0.085669,On or near Austin Friars,Bicycle theft,Under investigation
+368fa870156f452be75e47e3b662d2ddd88ffce613a20c6738a09499d575994d,2018-07,51.5151,-0.085669,On or near Austin Friars,Bicycle theft,Under investigation
+02fbead78e18ad15fcf4349bcabe0d64356d719a5b395c1190485c29bacdb5bb,2018-07,51.515621,-0.085086,On or near Austin Friars Square,Bicycle theft,Under investigation
+86f85aa1e1b0a92448258028561c8e98994bb05cbb698d031438795aac547c58,2018-07,51.51806,-0.110683,On or near Brooke Street,Bicycle theft,Under investigation
+967089fd527d1a730d51a0347be0700ad119ea0b85e0f84a57e894d3f24c6dd7,2018-07,51.513952,-0.085833,On or near Finch Lane,Bicycle theft,Under investigation
+ad24f55ca513b09ea0c0293826004c65fe14af394951801ff27a84eff80e7b93,2018-07,51.509876,-0.086278,On or near Fish Street Hill,Bicycle theft,Under investigation
+3fd133a68a9b980ce274bbe41483a0a9e68d3408ace864be3136d4079d06b17b,2018-07,51.513199,-0.087118,On or near Nightclub,Bicycle theft,Under investigation
+0c600e1a2ea76fc015508eaf9d66ec5cc5f3c7b8488e9a6a618808c570e9f90f,2018-07,51.513199,-0.087118,On or near Nightclub,Bicycle theft,Under investigation
+8a7cb39febef37136556b0b89c6c957589c0cfa1c7e7b50072ef705667ea5676,2018-07,51.517938,-0.098148,On or near Albion Way,Bicycle theft,Investigation complete; no suspect identified
+8c1a480dceb83ba4ced2fab13e66676ee23dfd3b958ee155d18e95a4bc87ce85,2018-07,51.511478,-0.096846,On or near Lambeth Hill,Bicycle theft,Under investigation
+d7fcef062cb4349dad7f5df6b9daadcccd9ac6f357bf2bb3c7180f88e1469f9d,2018-07,51.513199,-0.087118,On or near Nightclub,Bicycle theft,Under investigation
+5851b7bd34e5a3d63988be07d66daffadbb944888a7e9998c9350968764f0e8a,2018-07,51.517577,-0.098062,On or near Montague Street,Bicycle theft,Under investigation
+0a1d7141c5c93bf262eeaf95b74f35073ed442d9a8fe6e5b4f7b1ccc70955158,2018-07,51.517149,-0.08776,On or near London Wall,Bicycle theft,Investigation complete; no suspect identified
+ca38766030ab985b8a4d5d369ce2e0ce78c12ca3871b3998bf429244665deeca,2018-07,51.515484,-0.088233,On or near Tokenhouse Yard,Bicycle theft,Investigation complete; no suspect identified
+af38ddfdf7a587ea50f17fbbb56aaa7d89d3af798b900bb71dbb5bf3f286842d,2018-07,51.513199,-0.087118,On or near Nightclub,Bicycle theft,Investigation complete; no suspect identified
+bc0921ed2636224afecf3bc5cdfcf47dd348687ad7306d4277b82dc831f9d9a6,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Bicycle theft,Under investigation
+b5aabaa06ee91cd11a6cea32517c4ac40e0c8f6bc9f1ca33a7a3513580f41891,2018-07,51.51089,-0.088872,On or near Laurence Pountney Hill,Bicycle theft,Under investigation
+b8becfd3ea7c045e02816b1d63921c859f6ea3e5f7f7cc480a3baf9a011d8f2c,2018-07,51.51962,-0.088766,On or near Ropemaker Street,Bicycle theft,Under investigation
+efe5abb97cf711261d7743dbd2306d171055d68e2c8fe65b181cab616113828d,2018-07,51.51962,-0.088766,On or near Ropemaker Street,Bicycle theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Bicycle theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Bicycle theft,Under investigation
+885ab11db8afde4a65183ea277059504490fce067bc70f7f917068bb422f2d21,2018-07,51.517032,-0.089451,On or near Bus/coach Station,Bicycle theft,Under investigation
+f67cd505c3e7576c706fe5c28122df4a5349f8a6938eb8fd63fb962be73eae2a,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Bicycle theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Bicycle theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Bicycle theft,Under investigation
+25bcceb1469ec21e5582c4756438021222a381836b7b467c409fe3adb9a84520,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Bicycle theft,Under investigation
+597a9214a542afe5bc09b0da17e09cc76409cd45af749be114c8c2ef0f33708b,2018-07,51.511237,-0.090847,On or near Scott's Yard,Bicycle theft,Under investigation
+248bf15439538857ff0e3e00cea802665c20d569e579387beebed4f8321e923b,2018-07,51.519807,-0.09144,On or near Silk Street,Bicycle theft,Under investigation
+0651aad29495abeac328079a73c26be511061ee61b9d5f93b175459c1e75f46a,2018-07,51.512856,-0.073254,On or near Mansell Street,Bicycle theft,Investigation complete; no suspect identified
+c40a88cc45dfc7ade0a6e03476382de93decb5bb6f0509b292d2bf74f79b1ee3,2018-07,51.514367,-0.076592,On or near Pedestrian Subway,Bicycle theft,Investigation complete; no suspect identified
+47c0550e7c02aa74609e87c292f0dcf8634d5a3baeceea1a04591443e59c39d6,2018-07,51.519812,-0.093933,On or near Conference/exhibition Centre,Bicycle theft,Under investigation
+26e6b25c9114369a39de4d2e776e89b1d5724f883c7f391b74a5fba799fdbbae,2018-07,51.51768,-0.078484,On or near Catherine Wheel Alley,Bicycle theft,Investigation complete; no suspect identified
+3302b73c52d4daf0d03578f6d5fed5be23a0fc49e9b57a3e1c547033332a1948,2018-07,51.517871,-0.107375,On or near Charterhouse Street,Bicycle theft,Under investigation
+bc0b2a9c8c46369f16268b10eef29363250d8166217d79b4dfe655bac967fb3c,2018-07,51.515033,-0.07825,On or near Houndsditch,Bicycle theft,Investigation complete; no suspect identified
+f95868ae6cd99c23cbcb83c1dc5b8da0a1d6b3d3878ef21d2bc13611bad96da8,2018-07,51.518046,-0.077777,On or near Sandy's Row,Burglary,Under investigation
+a163b148b32ded3a5a5fd6fcad1c06f3d3b25389fca70b18a0784890b008b028,2018-07,51.510014,-0.081516,On or near Great Tower Street,Burglary,Under investigation
+b9dc588d56917d684c7dfbb2e0acf88be9e809aeddfea6bb4fca8cf0e718f6b9,2018-07,51.517231,-0.079613,On or near New Street,Burglary,Under investigation
+326c311534757d818b9f06797e2a8f945101888c27fde668d578a2c8356664c0,2018-07,51.50995,-0.078665,On or near Muscovy Street,Burglary,Under investigation
+4b99d9d9e8b88c2b9af71b1014a0c4b533e46976e2b0be265729a949dba128b0,2018-07,51.51118,-0.073065,On or near Goodman's Yard,Burglary,Under investigation
+fe71d8fce306cadefe69e4091e28e40901aca156aea5ec2453b4a6288170bc0c,2018-07,51.516391,-0.095892,On or near Noble Street,Burglary,Under investigation
+6723195093243962048c7dc42e7c0d4328c03756197bfbb2ec96024e144f89de,2018-07,51.517265,-0.110471,On or near Furnival Street,Burglary,Under investigation
+c86cda850f1a9891856c4a5a4b4bd80200aa4a928b5bfbde93683bf174babea6,2018-07,51.515047,-0.10791,On or near Gough Square,Burglary,Under investigation
+c64b621d06c163083dbf79b4e9597b640ea2aa7aa839eba0ec9ae47fa3e6755f,2018-07,51.511625,-0.081549,On or near Mincing Lane,Burglary,Under investigation
+c317b73f35876025e7dd9ebbe8fd0025ae5dfdfdaa8879cbfddc4f0b611e1c3b,2018-07,51.522868,-0.094959,On or near Golden Lane,Burglary,Under investigation
+a0d4613859314d4abb98248eab1cad4a792f039527c4816cdbe353cd3cc13f12,2018-07,51.522868,-0.094959,On or near Golden Lane,Burglary,Under investigation
+7840165632a6e2262bb7387445a5d6e9c0a7582626c358fae6ea97165c635b36,2018-07,51.510549,-0.083972,On or near Lovat Lane,Burglary,Under investigation
+33604282320818d940a04ab122ad591134456927381fbc7d8dc9fa7ef84d07fa,2018-07,51.511407,-0.083086,On or near Rood Lane,Burglary,Under investigation
+a58927fe4cb6993dac9ca4f14d9da976f8111c570e9e4f0b48b703589d6a5d68,2018-07,51.513355,-0.089475,On or near Pedestrian Subway,Burglary,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Burglary,Under investigation
+d693009f69b5c7edb82b246299b5cd8d696716f4da2adaeca9ccd46e0eb9e7d1,2018-07,51.518046,-0.077777,On or near Sandy's Row,Burglary,Investigation complete; no suspect identified
+1f286c5483d7447f2d333c34610c1a7e8e923d6454070b367b7059228d98fc3d,2018-07,51.523156,-0.09721,On or near Baltic Street West,Burglary,Under investigation
+98fb730735de1e7ddd0469b0a7d906e052c8b1c02813430d79c50b01528f5310,2018-07,51.518046,-0.077777,On or near Sandy's Row,Burglary,Under investigation
+388c7496c2c31c5b5d7a9bed784454839f15b40f662cb7c40637e2e74dc4537f,2018-07,51.512682,-0.084618,On or near Gracechurch Street,Burglary,Under investigation
+a2d7f456977e6b18c3475fe02ce692d8c84ddb5484fc8e8be49a985d44302ddc,2018-07,51.512682,-0.084618,On or near Gracechurch Street,Burglary,Under investigation
+1a0cdfbb69be014b5690d86e7f105102be9ae543dec580c478382888e7353860,2018-07,51.513148,-0.083417,On or near Whittington Avenue,Burglary,Investigation complete; no suspect identified
+48be26d67d215ced2ad1706cf444a239342d70f80819d3ff1ded44daf8eb64bf,2018-07,51.512749,-0.104244,On or near New Bridge Street,Burglary,Under investigation
+cdc9abb6967c7678507f380944040a314df8c43b17e3b91623b24f96da4316e6,2018-07,51.511775,-0.075389,On or near Minories,Burglary,Investigation complete; no suspect identified
+2fdee194a96d390b49286f4536d165840a1f12f1b25edb9301a47f776661ee29,2018-07,51.513928,-0.108231,On or near Pleydell Street,Burglary,Under investigation
+c62e778db9d27282bd64f9b9ad26507adc5e75d146a1c851f873f8babaae4861,2018-07,51.515236,-0.088517,On or near King's Arms Yard,Burglary,Under investigation
+,2018-07,51.5118,-0.076901,Fenchurch Street (station),Criminal damage and arson,Under investigation
+a7bf4310d0c66f420d731fe8f99f357e30118fb7ef23c08f7aa47e4c61ac40de,2018-07,51.512031,-0.099907,On or near Queen Victoria Street,Criminal damage and arson,Under investigation
+1ecb30d139fd5b665747575c395d7c4e2e98fe85ff9aaf669940453a30e96043,2018-07,51.511583,-0.093916,On or near Garlick Hill,Criminal damage and arson,Under investigation
+bb481fa484f66d61f1b90ad3d20ac02a2d66eaab5ace28e2ccae0446c2b7a12c,2018-07,51.517431,-0.082458,On or near Liverpool Street,Criminal damage and arson,Under investigation
+71565a91d76156bda42c159dfcd0688c57549e3dcae2388198200e9ba2df598a,2018-07,51.514699,-0.104134,On or near Old Seacoal Lane,Criminal damage and arson,Under investigation
+039a317e545efa95afa49a6c6418670a1daf0857ce3b3f37dbd5d3dc4e93dda3,2018-07,51.516014,-0.081091,On or near Camomile Street,Criminal damage and arson,Under investigation
+f1368e7d15e211bc1fe478b32dc3e147080b19d8b0f7bd56508a7d7af4667ed1,2018-07,51.511625,-0.081549,On or near Mincing Lane,Criminal damage and arson,Under investigation
+0ed0f3c852084661350ce70e327636e471540cc4ff79e0df44acc6970f14da0e,2018-07,51.516122,-0.077224,On or near Shopping Area,Criminal damage and arson,Under investigation
+42aaa1657d04b036cfb5d2b32ed8670677b2e7251ce514e28947c7cffbc847cd,2018-07,51.518499,-0.095026,On or near Park/open Space,Criminal damage and arson,Under investigation
+b6c4f0d175135c9960ce542348f6e1785538d9b13460232eaf4f37defb94c4c4,2018-07,51.514507,-0.081832,On or near Undershaft,Criminal damage and arson,Under investigation
+c270b831ec99bd296ab18caf633254d47a596149c56a5fcc4febc5e60c7f8109,2018-07,51.512856,-0.073254,On or near Mansell Street,Criminal damage and arson,Under investigation
+323453770daad2c0e144044a75ade0691a09b09e17e6f8b3c30e5c70240ab264,2018-07,51.513382,-0.088955,On or near Lombard Street,Criminal damage and arson,Under investigation
+26871d8b27a59f31cfe46cc5ea814706378e62ebc10d7426330647517bf237b8,2018-07,51.512108,-0.097973,On or near Distaff Lane,Criminal damage and arson,Under investigation
+cebe67d2d1145b9512232a7f808c2af789f615537333f475ecb2ede09d516649,2018-07,51.518262,-0.088203,On or near Moorgate,Criminal damage and arson,Further investigation is not in the public interest
+fd63aeabf0a5a316fd789de850b1456bd34c04b0ab7b6301fa4be9e444b98bab,2018-07,51.518864,-0.097562,On or near Parking Area,Drugs,Under investigation
+512c792e1652b8f69f5e1c629eb774886db5367892b8a05e932216abfd29f194,2018-07,51.518864,-0.097562,On or near Parking Area,Drugs,Under investigation
+7402f5c3f72650d12787bacc1892f8f5d19b2eeb334644b50db8b62b6c7228a1,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Drugs,Under investigation
+46717d87a4a89e094a7e23543ef2aa13d8c42528c91fa03e82829f130e22f479,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Drugs,Offender given a drugs possession warning
+,2018-07,51.5143,-0.075727,Aldgate (lu Station),Drugs,Under investigation
+aec15b2496afaab5901381861a025ebb4ee8a0e54202438f118378c9d7d53d60,2018-07,51.513869,-0.105134,On or near Bride Lane,Drugs,Offender given a drugs possession warning
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Drugs,Under investigation
+,2018-07,51.5143,-0.075727,Aldgate (lu Station),Drugs,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Drugs,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Drugs,Under investigation
+14aee8063c0d67042e51258cc43fbcd096e6fc7ffa121fb6222caa5726dfb2a2,2018-07,51.50995,-0.078665,On or near Muscovy Street,Drugs,Offender given a caution
+366ce81a238456b48d34f58819aa436a370092a3c6dfe8b81df8ea4fabb5c7cc,2018-07,51.509848,-0.104494,On or near A201,Drugs,Suspect charged
+3ed2fe89692c63315dfca4c0d14aa19be6332311973ce4e2ccf83bdcf69b0e78,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Drugs,Under investigation
+850e6d05fd13bdf5f78368a64fba1ff68a3c068fd85a5c75b506ccc4bd32c09f,2018-07,51.517912,-0.104909,On or near Parking Area,Drugs,Under investigation
+f25162b557883080e4cad9d1680c47ce83b05596fcc444f568016d24d27186a2,2018-07,51.518262,-0.088203,On or near Moorgate,Drugs,Suspect charged
+05a4fada3b2ea2bdbce39bee53965897e21c8784b957b3216c0eae9644d08c4f,2018-07,51.510873,-0.105561,On or near Ferry Terminal,Drugs,Offender given a drugs possession warning
+03a07270fa49f462e77421ad4cc26fe94f3dbaba392084d13138af458658a82d,2018-07,51.510961,-0.10269,On or near Blackfriars Underpass,Drugs,Suspect charged
+0eab00e777dead0ddec02f1304d1afc9beaf1479e4385a045fcf8bcc20937537,2018-07,51.518864,-0.097562,On or near Parking Area,Drugs,Under investigation
+094c0d10ffcdfd866b6035110ee1b4a9fe1d037b93c0349b75369696978c618b,2018-07,51.520206,-0.097736,On or near Conference/exhibition Centre,Drugs,Under investigation
+9669e05c9fb33c4f788e1965ed4fad59de4f87aba1fba4d457cfadda89f7e20a,2018-07,51.516014,-0.081091,On or near Camomile Street,Drugs,Offender given a drugs possession warning
+e09f1c9ea5fa12203a118552ffa45a27b4bf352b50b2c28624388cc7fedeefe6,2018-07,51.51768,-0.078484,On or near Catherine Wheel Alley,Drugs,Under investigation
+7c833e5fc2a42a3ddc6d05998aa27a4df9869913e2f4197432bcaa81cb68cbe5,2018-07,51.518864,-0.097562,On or near Parking Area,Drugs,Offender given a drugs possession warning
+bfb4a0a0206b2ede5a5310f85806cc1fd5499b05ad78cf8b5dd55476b83ad6d9,2018-07,51.512117,-0.102411,On or near Queen Victoria Street,Drugs,Under investigation
+a04154dd10d3175864dbdd4803a19f2f065f1b4c7db553400c9d42bf8e793baa,2018-07,51.513171,-0.077694,On or near Aldgate,Drugs,Under investigation
+5850edea5ae0b6a7a16f371874a2175cbf4f0756a3b346d919a89e599f8deb2a,2018-07,51.516351,-0.082965,On or near Wormwood Street,Drugs,Offender given a drugs possession warning
+23e14cb37375e5a5c7bdf9ff80021c8ba5e80909253d07c5187af48a06045251,2018-07,51.518231,-0.112939,On or near Southampton Buildings,Other theft,Under investigation
+7eb043c5b2a55e01f105c09108bdd9af28cdb41a8e733b069135d96726b9adb9,2018-07,51.513905,-0.106214,On or near Salisbury Court,Other theft,Under investigation
+8671f524736a605fbe2b20b253f805c435ad8c4c06d221b9374bb863a2c172e4,2018-07,51.514158,-0.100179,On or near Shopping Area,Other theft,Investigation complete; no suspect identified
+7743322cd76bb2be257c029778c2d20e18d4529fe6aec8a108818bd4161bc6a1,2018-07,51.512526,-0.098777,On or near Knightrider Street,Other theft,Investigation complete; no suspect identified
+c6e9d6b07c0abaee7d44412c921d039fc3421354290faaf4196e8d622d718afe,2018-07,51.514158,-0.100179,On or near Shopping Area,Other theft,Investigation complete; no suspect identified
+46ef12f85f2f46cc92274aea386597228523256cde1e6b27467e5560dc844cfb,2018-07,51.513928,-0.108231,On or near Pleydell Street,Other theft,Under investigation
+e75efb256de8accfc331687103a330e0837ef27f1fbd3946802db25d2e884ac1,2018-07,51.516966,-0.100884,On or near Hospital,Other theft,Investigation complete; no suspect identified
+74ffc7448ffb026abf655d292872147a9a603e19728d1830b958a7c9ccbc5449,2018-07,51.513297,-0.101959,On or near Carter Lane,Other theft,Investigation complete; no suspect identified
+4e752a294a20fb109adcfabf02c7c7e58d71ab7d2392f59411e00e1efbcc1bf5,2018-07,51.514109,-0.10328,On or near Ludgate Hill,Other theft,Investigation complete; no suspect identified
+db994b9955d5161d5fb51d1b278e87a3ee90456f1b0a4c994fbced576ffd40c5,2018-07,51.516414,-0.107926,On or near Bartlett Court,Other theft,Under investigation
+6dd091486b22ff43b526a96cd785d72f7420a4c725dca8963ae4e604bcc2b23a,2018-07,51.511761,-0.1043,On or near Pedestrian Subway,Other theft,Investigation complete; no suspect identified
+90cab93b99b92f672a46a1ca5220f59e79c1a69132cf5796c3f9425148744f16,2018-07,51.513051,-0.104001,On or near Apothecary Street,Other theft,Investigation complete; no suspect identified
+e900148d8fd681f882e07d85fff687cc59e650e52f9e303aa8725981c902ff6b,2018-07,51.516386,-0.108965,On or near Plough Place,Other theft,Under investigation
+869018c75b0d5981246a83ce8693d926b3e9d7100c006dcdabc93df4695966a1,2018-07,51.516668,-0.109155,On or near Fetter Lane,Other theft,Under investigation
+188e14a39f683f14b801e97b09ac70699397858f0153046bda02e62f2279c212,2018-07,51.515552,-0.107443,On or near Printer Street,Other theft,Investigation complete; no suspect identified
+b73b93e3173e69f90a8b75f9243628debecf38ba93ce80d33878ece8684ebf79,2018-07,51.513581,-0.108418,On or near Lombard Lane,Other theft,Investigation complete; no suspect identified
+bffb0b283ce1337c69b65735bd0941e000a9e246f59e6b02a62b41d4d94e83f6,2018-07,51.516386,-0.108965,On or near Plough Place,Other theft,Investigation complete; no suspect identified
+0162e553ddb87ec5f74ad70ddc3def8c0bcc5a22da681a4dd3f35ec6aacb13f6,2018-07,51.513865,-0.092625,On or near Cheapside,Other theft,Under investigation
+7067dc4ce40f38fdd704f09820735f82b10e22a180738eaba87c6e23ce91c94e,2018-07,51.513865,-0.092625,On or near Cheapside,Other theft,Under investigation
+2f1b957762b3b3dc703bc0cf7fe875a8db0d615d1f2a7e3ad94b0c91f3f159c7,2018-07,51.519365,-0.088013,On or near Ropemaker Street,Other theft,Under investigation
+0704e7a73d40ce62cf1d25aab8495013d25f948e87c104c3771a9e19fa42152c,2018-07,51.512952,-0.096814,On or near St Paul's Church Yard,Other theft,Under investigation
+,2018-07,51.511468,-0.09016,Cannon Street (station),Other theft,Under investigation
+,2018-07,51.511468,-0.09016,Cannon Street (station),Other theft,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Other theft,Under investigation
+d4011ec1219fc9ae851443597ba02a938e73f6247c9fb3e49dcb1d9aa7a9f9c1,2018-07,51.511477,-0.092926,On or near Queen Street,Other theft,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Other theft,Under investigation
+ffea0c4895bf1d825237d0ff7d32c3f06d80d78e0b4aeed3e6ec1774c8dab4c2,2018-07,51.511453,-0.077637,On or near Crutched Friars,Other theft,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Other theft,Under investigation
+e85acf96dee32de30b2e7adb28d44797c9580247812754dae5783bdb27a84046,2018-07,51.512526,-0.098777,On or near Knightrider Street,Other theft,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Other theft,Under investigation
+f3f3818693aadaea0167b8af021d47d4b0341bcb84c8c4c1fdb9c26311b736ce,2018-07,51.516014,-0.081091,On or near Camomile Street,Other theft,Under investigation
+b3bfe31c584eb5ec28ec3c0d015a4e44fc443fb9eec7fa238a8c529eb616f105,2018-07,51.514507,-0.081832,On or near Undershaft,Other theft,Under investigation
+5722143b55b1703c6076c2a392dc6c37d8ae59fca95f24bb4ff0817c62c08328,2018-07,51.514507,-0.081832,On or near Undershaft,Other theft,Under investigation
+,2018-07,51.51079,-0.086052,Monument (gt London) (lu Station),Other theft,Under investigation
+09a0c62033e50673d95b11cfbdea4163097675c7b571fe0fffc41cfad54801ac,2018-07,51.515173,-0.08189,On or near St Helen's Place,Other theft,Under investigation
+,2018-07,51.5184,-0.08903,Moorgate (lu Station),Other theft,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Other theft,Under investigation
+,2018-07,51.5118,-0.076901,Fenchurch Street (station),Other theft,Under investigation
+bfcec8d2fc9df366a1f0d56bf82851578b36b54ab7e4379dc4fe336c294464e7,2018-07,51.513463,-0.082913,On or near Leadenhall Street,Other theft,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Other theft,Under investigation
+a68ed6b279c1deeffcb34a56333050d71179f49f355fa76bc289242e0318d054,2018-07,51.517244,-0.080376,On or near Supermarket,Other theft,Under investigation
+028cd73d8ff67c6a4ae5106df22a577cbad405ac038be282195e757450ecd015,2018-07,51.516351,-0.082965,On or near Wormwood Street,Other theft,Under investigation
+bfcca637faccf5803fd4334006379b128f2dff01ff7482ed1ec1ca0d6234c6d3,2018-07,51.5169,-0.084095,On or near New Broad Street,Other theft,Under investigation
+6623313483ce7639ef054e6a19b4da73a064a79a50b91edd9fa8dced81e6faab,2018-07,51.51868,-0.085173,On or near Finsbury Avenue,Other theft,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Other theft,Under investigation
+0ab4a8a8d5869df66b692b63d69248f25125b0acde0d2a00204c3a135ffb3431,2018-07,51.520059,-0.084251,On or near Sun Street,Other theft,Under investigation
+5fe5cfca7e3866c03f9db2179f5e38622fc9e8f2bc56058795db74b62f751e10,2018-07,51.5112,-0.085257,On or near Talbot Court,Other theft,Under investigation
+55af3abb7064a7516f5e81864055dc9926e8425ff2237c808ab055357e2f1697,2018-07,51.512682,-0.084618,On or near Gracechurch Street,Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+75594db308074fcdc4dad456898b8cfbed512366ef5a06334514df70831f8126,2018-07,51.509466,-0.082058,On or near Cross Lane,Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+917f06908dcf10dd5d4e6e3658ab07fb6caf3410ba16ef41b107d5e52e05bd48,2018-07,51.520059,-0.084251,On or near Sun Street,Other theft,Under investigation
+4cf2a02bb0bc60e36cdd5a41ef012aab540cb5cddfb8955e5473164c952987b2,2018-07,51.517526,-0.108283,On or near Supermarket,Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+94a8d6d0f72997b4211254406576c8e9c24621d47dd7134cada6320fe7f912bb,2018-07,51.510828,-0.086166,On or near Eastcheap,Other theft,Under investigation
+6ea079438cf5e2cdaa20d2c8469c507f7ac44456ef524142ff630732aa51c3c3,2018-07,51.510828,-0.086166,On or near Eastcheap,Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+43f3bcd5fe53d77b84b394eb6498532b49a4c32d9a895aef94deff5719977415,2018-07,51.509876,-0.086278,On or near Fish Street Hill,Other theft,Under investigation
+8ed886daf75bb3450fac2d47b766628d6275dea42d1ea2b8c2423c8a0dbe48d7,2018-07,51.509876,-0.086278,On or near Fish Street Hill,Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+489f151955ab468ffe9c57277ca4b998b5d72546ca3dc164d4ccf8f2809e3a72,2018-07,51.513199,-0.087118,On or near Nightclub,Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+f432d4a807d9d1cd33aef1df24c1c2a3d38d4b62fff9829c3a2ea7610736551c,2018-07,51.512206,-0.073152,On or near Mansell Street,Other theft,Investigation complete; no suspect identified
+,2018-07,51.5143,-0.075727,Aldgate (lu Station),Other theft,Under investigation
+fbe970c4646f31a8e9ef9bd104cb4101135fe695ec738609a05d78cfd1c2a8df,2018-07,51.515331,-0.089364,On or near King's Arms Yard,Other theft,Under investigation
+d2aa5ab4cb7c3c4a9ec20aef7b98fd7b58451f942871b257a2d97fab1682ef8a,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Other theft,Investigation complete; no suspect identified
+0335c799f75d9bd1292a7f4841057a47aec3e0398c205d4f35c3679188c8a566,2018-07,51.513928,-0.108231,On or near Pleydell Street,Other theft,Under investigation
+69cc36ef5a4fbf0f99ae0e6935372015d53a88b0e34a0a036053b0d1b2064e65,2018-07,51.510855,-0.089465,On or near Gophir Lane,Other theft,Under investigation
+91562e81236973ee5546746359a4fd9802731b0331080c19b55cf96fc009fe89,2018-07,51.51962,-0.088766,On or near Ropemaker Street,Other theft,Under investigation
+79314984abfbb605ac77de997fa739ecb87d00167d6039efc416e6901f803786,2018-07,51.509532,-0.088843,On or near Parking Area,Other theft,Under investigation
+023f95c3985da62af2255080b108b30e046785df262617feb84c469b077a907f,2018-07,51.509532,-0.088843,On or near Parking Area,Other theft,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other theft,Under investigation
+fcf337f79ffc170dcc88bd1404f625c81a267e3eda0559e0e893ce4e11554888,2018-07,51.514917,-0.090419,On or near Gresham Street,Other theft,Under investigation
+689813b7576cec97a686000fe9999701abc21676390b29ede4dc2a1f9d563366,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Other theft,Investigation complete; no suspect identified
+ef0560799cdcb3eee0616141dc0d27b9fbfdc0fa4d2d91f833ce54dca4c5b3a9,2018-07,51.513447,-0.093493,On or near Bow Lane,Other theft,Under investigation
+56a766a1a2fddb60fa325ff03549d768b47904e5d15be3ed0b7fb87ecdaef398,2018-07,51.514204,-0.106922,On or near Fleet Street,Other theft,Under investigation
+a793615ff8450c6245f411221e524ee5663b74a804e0986cc6b613c616bb36ff,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Other theft,Under investigation
+09095f1f5080bcbc2e75409667cc7522f201dc24e8a5c0bd0c689858930b357a,2018-07,51.515075,-0.077513,On or near Stoney Lane,Other theft,Investigation complete; no suspect identified
+a845e87d8c9e15c532b5de18f009bcf9388de9847fecc7982f8c2fe24560c0c3,2018-07,51.515753,-0.0954,On or near Conference/exhibition Centre,Other theft,Under investigation
+a4ff2922b81711dc512b1b1ac17c3d906eb0cc2c59b6692507e4f67123d25ecc,2018-07,51.517376,-0.094582,On or near Parking Area,Other theft,Under investigation
+1e94ec44b46687f9a78215fa6e84bda512a2346a3f1438f2f6fdba2c6ec0f49c,2018-07,51.521391,-0.095381,On or near Viscount Street,Other theft,Under investigation
+05baef5d4c5bc1e745e22ade027dad9496446f11c8a15b2590cc6fbb61a8c41a,2018-07,51.51118,-0.073065,On or near Goodman's Yard,Other theft,Under investigation
+e5391e116d2e3cf878b2e9da238c2c8f35be48abb61c44c8aa68632c79fd54f9,2018-07,51.517431,-0.082458,On or near Liverpool Street,Other theft,Under investigation
+da29fa10262c8fbcc505756c98871286d52b3ac6aa8ee05b5d6f4d34cecfeba1,2018-07,51.513007,-0.081938,On or near Lime Street,Other theft,Unable to prosecute suspect
+8f193771a5a4dd68043a7db70eaa78be28648cdf15ffd3ce9813684a7ad0ab82,2018-07,51.513647,-0.07433,On or near Little Somerset Street,Other theft,Under investigation
+52603a560edb12270b6f88ad93fe4d76934db3311a608351a6a120f631085d05,2018-07,51.511208,-0.074793,On or near Pedestrian Subway,Other theft,Under investigation
+a30ccfb15ea039878959cc9498166282602ead104ddb5af5ee79f240d46f60c4,2018-07,51.517576,-0.079786,On or near Police Station,Other theft,Unable to prosecute suspect
+95a98be1112bf01ea870c41e7e620d507a1f634ae0c2c23c50d134f85fc9e3bf,2018-07,51.512462,-0.076095,On or near Vine Street,Other theft,Under investigation
+1e8d94fc27b7f47677220ddc60af6b372085f9ee9eaa95579651def126edf718,2018-07,51.513389,-0.080034,On or near Leadenhall Street,Other theft,Investigation complete; no suspect identified
+dc51f055edbd7636306f7366e9e03235f24567ceca79f94c07953275c375a2e8,2018-07,51.511445,-0.07608,On or near America Square,Other theft,Under investigation
+99fe08406fcd2e8651e8f314c5e7938274ac51b623073e1e2f127436120d92a5,2018-07,51.513627,-0.076435,On or near Aldgate,Other theft,Under investigation
+a50c0d5d58f96ec1d18d5365634d8f4594b3fcd8ea9a5a0c789c9c0d5e61e872,2018-07,51.511014,-0.076113,On or near Conference/exhibition Centre,Other theft,Under investigation
+0aa11ce16167dc609bc2f850623c01c0d175870fc5eeb026a0c8b6667cb6843b,2018-07,51.511916,-0.076853,On or near Nightclub,Other theft,Under investigation
+8c58f7371f5b599e985ee117118ff72ba7c01d1ba808a2a58f84e846f66c7ac2,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Other theft,Investigation complete; no suspect identified
+4a0e2b4d1315f6788f45c4edf68443f23f0c0bb955064722fd5ae692fd1fb108,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Other theft,Investigation complete; no suspect identified
+8eb9eb08ca616473922dc480d060ef105171d9c11d1f69ef33a13c478a3ef7aa,2018-07,51.518046,-0.077777,On or near Sandy's Row,Other theft,Under investigation
+31706263ca3c7d82ccb13c770f13363b9b31b8e3dcd3336595fedc3f6a3e5b2e,2018-07,51.518029,-0.082722,On or near Pedestrian Subway,Other theft,Investigation complete; no suspect identified
+06a9cf949f33fadac14b3d9093b087a7f172268f9ed590252ef1488e06e6d588,2018-07,51.510795,-0.077578,On or near Pepys Street,Other theft,Under investigation
+ac1e8e79956468d4b7450cd2fd1668901f6085e8cb4dbcc37ccb6b360e6c8558,2018-07,51.50995,-0.078665,On or near Muscovy Street,Other theft,Under investigation
+45605160e0330b03d79a29c8d576710160fb939bd9732172f3c098a264727961,2018-07,51.508587,-0.078924,On or near Petty Wales,Other theft,Under investigation
+2561e2ab1977fb4c86941eac224e2354f274fcd624dab87976bbbda74f7da702,2018-07,51.518433,-0.078856,On or near Artillery Lane,Other theft,Under investigation
+85f48d24a45ee3a01c7b6873ee53bf0a063b800afe21a2091bfaef67025fcb0e,2018-07,51.518433,-0.078856,On or near Artillery Lane,Other theft,Under investigation
+ce47976962d7ff4f6b912763ebc10d7efb322a1a69edbf6d32b78eeb3068777d,2018-07,51.518433,-0.078856,On or near Artillery Lane,Other theft,Under investigation
+b2798c830db23ec8d1074d422294d46a8d09f375fdcb0b98d853b67a97bae415,2018-07,51.513463,-0.082913,On or near Leadenhall Street,Other theft,Investigation complete; no suspect identified
+0223323f58aca28f6555af50a7d8e2b7ff136e2449c2db6fb7f256322bfeaccb,2018-07,51.517058,-0.083296,On or near Old Broad Street,Other theft,Investigation complete; no suspect identified
+614bcadb4ff9d96d57c3292473766d7118f6dafb374ba4a0f99eb713b9a6ec52,2018-07,51.511021,-0.079283,On or near Seething Lane,Other theft,Under investigation
+7d1d3efa303d2da651297f905cd30c73db32fec8030743d3ceadcb75a92300bc,2018-07,51.518433,-0.078856,On or near Artillery Lane,Other theft,Under investigation
+1fb1283506600040299526d5b842ed999dda368a8f700c1deba721d5858e7368,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Other theft,Under investigation
+cdff6a44f17579622ebfc89a4ccdbb2d29adec10001e5d3ef64dbd60832eb243,2018-07,51.518433,-0.078856,On or near Artillery Lane,Other theft,Under investigation
+6d26fbc479c2ede5a310da92108d76e8c232a4e15ba7b1b816f81e01a8e9fe83,2018-07,51.51769,-0.084566,On or near Blomfield Street,Other theft,Under investigation
+ff6d9789542fb59695c449402b3d44a4f6e20d93cb0dcc6849299ed29e23c20b,2018-07,51.515621,-0.085086,On or near Austin Friars Square,Other theft,Offender given a caution
+cdc309b9985dc6e04cd05ee2c8fb156e2cd7e4cfe8e28a88c56b39fc9132fe9d,2018-07,51.513389,-0.080034,On or near Leadenhall Street,Other theft,Under investigation
+48211623994e446227878c1ba183c8511d7d2d40ad5573f5038dcf07f85e6ba6,2018-07,51.517576,-0.079786,On or near Police Station,Other theft,Under investigation
+d55a17acbd41f925ec8a5dcf9cad4915d455d7d2722ca39db31bdf611736458d,2018-07,51.517576,-0.079786,On or near Police Station,Other theft,Under investigation
+c907608a2f8341c297a2d5f8be61c9e74ce600601c40ba983b5269b4ddf925ae,2018-07,51.514848,-0.080146,On or near Bury Court,Other theft,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Other theft,Under investigation
+9502f77cb202b1ea6b6d0bce4063bcb3faf5e265402772e652a3adf22508ddb1,2018-07,51.517431,-0.082458,On or near Liverpool Street,Other theft,Under investigation
+8becda578701713a5447f6a6c68aeae9195ceeba54f2bd55b7657c4b86c95d99,2018-07,51.518091,-0.078308,On or near Widegate Street,Other theft,Under investigation
+35b6c65fee61969c5413e28b14d2a06fd86a0419a7f123747e9c0b9315c2eb2f,2018-07,51.520699,-0.097601,On or near Carthusian Street,Other theft,Under investigation
+edc67a676c876868ac6b3f358a4018a5a585a4d15ecc1c1d0af5a215b51bc9cb,2018-07,51.512882,-0.084768,On or near Corbet Court,Other theft,Investigation complete; no suspect identified
+2356329c20b4b9ca2f01b82d953f05590d8d2fecf8b0b3896b504239a70e25ff,2018-07,51.513952,-0.085833,On or near Finch Lane,Other theft,Investigation complete; no suspect identified
+3cad56ede003bbea7ddda8df065ab981658282a3190e286c570314646faaedd0,2018-07,51.513952,-0.085833,On or near Finch Lane,Other theft,Investigation complete; no suspect identified
+51f05a2c1e42a695e67183fd82ea5e5cccffbbea5f31f8effad5de01ac09320f,2018-07,51.5151,-0.085669,On or near Austin Friars,Other theft,Investigation complete; no suspect identified
+868f859a1b87eebdcffb961af427cde58aeffebc81c1c101724e49d7bb1921e6,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Other theft,Under investigation
+43d68f06da58a4c19bcb22943df9cc0f362b9dc04c33c494774d6b8495088e8f,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Other theft,Under investigation
+9350a3f87df4112d2cca6e0bda1585ba82843a3a2eeadf8ed8ac2674a6945749,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Other theft,Under investigation
+8b9d97e8d0161baaddadf293fdd4a7509535486f5cd8949fc4925badc4060667,2018-07,51.514656,-0.088225,On or near Lothbury,Other theft,Investigation complete; no suspect identified
+f5e67d542cc51961bfda47fb5d78bec98b804a1c52081349bd4ea92a9418247e,2018-07,51.516719,-0.089536,On or near Nun Court,Other theft,Investigation complete; no suspect identified
+ca4c48a8a745ee0c31928a4fe2478de26f23612f81c422464eb3e10136b5cd39,2018-07,51.509532,-0.088843,On or near Parking Area,Other theft,Formal action is not in the public interest
+0715a0b17fb1ff72f64c2c573e7f544504d1dc05cad292f57526126a732a550a,2018-07,51.510855,-0.089465,On or near Gophir Lane,Other theft,Investigation complete; no suspect identified
+b8be21b2288e4f46f3fa15d8079d69e76e348e48734f2eb8fea46248590d21fb,2018-07,51.520206,-0.097736,On or near Conference/exhibition Centre,Other theft,Under investigation
+0921104b2c2ac3391b8c5c422fd2a8173cffd0b1dac337234574224ea33a935d,2018-07,51.519905,-0.098023,On or near Long Lane,Other theft,Under investigation
+ab0761b0f2e12074c3e60cdf92513c9f4ed67d528770cd758ef318909bee9126,2018-07,51.509532,-0.088843,On or near Parking Area,Other theft,Investigation complete; no suspect identified
+0ac8b4e0061e1472751a6b6aeefb17bddb1aaf96df48f6c94a292b7f8506b477,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Other theft,Under investigation
+f4972490224ec8e65e539a58254b732b4ca129a1199970521bfc59cd6a6f0d04,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Other theft,Under investigation
+ed5329c2d2c92544b271401a92e130ed13d6b401f6c7ac972f86303a2f91f310,2018-07,51.517909,-0.109709,On or near High Holborn,Other theft,Under investigation
+aea6125c8d576b63efe4ca0de7a0901e8799fbcc1e0845e95fdf0ea529bad598,2018-07,51.512147,-0.092077,On or near Tower Royal,Other theft,Investigation complete; no suspect identified
+2dd68cf3856b7d1d7408994a97b107b33b0f272e7a830bc91df65c23631e44ad,2018-07,51.51792,-0.092628,On or near St Alphage Garden,Other theft,Investigation complete; no suspect identified
+fa71bc1db19890f2be0d6d03a1b5fc6528824be5f41584435b3758a75f587feb,2018-07,51.512652,-0.092719,On or near Queen Victoria Street,Other theft,Investigation complete; no suspect identified
+3b5e318fa931874365094bf65b4b7f523a9242627d3c43667f062cbac0283976,2018-07,51.513857,-0.101575,On or near Ludgate Hill,Other theft,Under investigation
+93bbb70cbdac50b945f8d3cf4686604ab388f2df341571160b7929f6f6734098,2018-07,51.51265,-0.101452,On or near St Andrew's Hill,Other theft,Under investigation
+d13f30aea7053bf7d56e53c486c488c35a1d38705fb7411ffd69700962a65b21,2018-07,51.512959,-0.094464,On or near Watling Court,Other theft,Investigation complete; no suspect identified
+40c2f09f8cb2b9ef384f22b02a7c8e8397b885c9033d95e379052d09470a09c0,2018-07,51.513447,-0.093493,On or near Bow Lane,Other theft,Investigation complete; no suspect identified
+df0726f065c5eafb9c751a92de16690a6a9b1ff5b682d9da100b0fef824ec9d6,2018-07,51.513885,-0.102741,On or near Pageantmaster Court,Other theft,Under investigation
+3582ab3d9fcffa63b7d3939e326ba9ceeb6049118a9b749c3eecb9179f8260e7,2018-07,51.514109,-0.10328,On or near Ludgate Hill,Other theft,Under investigation
+d4e3a1f16bcd444fcf7b3d76920f9acedd307763f3775e94483518dad179b298,2018-07,51.521567,-0.097334,On or near Fann Street,Other theft,Investigation complete; no suspect identified
+a51b00decc6701173d871352102f0ac4d664d4c3a9d46c9e9f6643cf7d9fb568,2018-07,51.517577,-0.098062,On or near Montague Street,Other theft,Investigation complete; no suspect identified
+628b0c86a5c2f14f1373c17ab579108e2d08188aae6d26e9abc54a8d78161ac8,2018-07,51.518654,-0.103494,On or near Shopping Area,Other theft,Under investigation
+993a6114fe3a06301347bbce067daff9136cc33566585981ea0ab012a24a7f71,2018-07,51.520206,-0.097736,On or near Conference/exhibition Centre,Other theft,Investigation complete; no suspect identified
+d6d24436736bc4d75659ccc893b73ae86d34d03400ec154a27b93a3a5c9058a8,2018-07,51.517912,-0.104909,On or near Parking Area,Other theft,Under investigation
+4199abeb38175d0bd909ca38baefba2b9ac1a53a3db685f7da1f0b044e5303a7,2018-07,51.512952,-0.096814,On or near St Paul's Church Yard,Other theft,Investigation complete; no suspect identified
+6097853bf54007528171c369ba80bcd69ae3d5e48a7918f9e44283a264d93e3d,2018-07,51.512117,-0.102411,On or near Queen Victoria Street,Possession of weapons,Under investigation
+62a2f0103ed5e025e89970f6673f0fe7990eb84fb4f2bfc1e464c2e4490f6a15,2018-07,51.517576,-0.079786,On or near Police Station,Possession of weapons,Under investigation
+cdd82aa4cc7429d173a065c773a56c02d249724de62ac7c10fd438f65f023c71,2018-07,51.508066,-0.08778,On or near Borough High Street,Public order,Unable to prosecute suspect
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Public order,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Public order,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Public order,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+12f0c071d7362c07dda90b01659ea7d448a2d4ec73bfbd78432d2db6e7a34b99,2018-07,51.518619,-0.088621,On or near Moorfields,Public order,Further investigation is not in the public interest
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+1d932bf2ff21e452fa0e23f81e67654767620a20849be6eb81ff3dc0d877c437,2018-07,51.513928,-0.108231,On or near Pleydell Street,Public order,Under investigation
+a34b4ee2f6b5b71980cbf56d9e9fc7463ddcd93227ce8f146e88f26b2264a785,2018-07,51.513885,-0.102741,On or near Pageantmaster Court,Public order,Under investigation
+90dcd84f62673941a7dd1576878244915cb35db2342f382ccb36b792b2a654b3,2018-07,51.516877,-0.08767,On or near Copthall Avenue,Public order,Under investigation
+57aa8323112130344a24e3451365fa52fef9978cab677916d9cb28d271db4c88,2018-07,51.512031,-0.099907,On or near Queen Victoria Street,Public order,Unable to prosecute suspect
+,2018-07,51.5116,-0.103036,Blackfriars (station),Public order,Under investigation
+5e05af7ae457e41af45739ae36e548404c38ee4c48e0d1c831e7d3465d23f343,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Public order,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Public order,Under investigation
+5093ed61dd1576e8b26f030a36bdf204228f6267ee94b727ec23baff128a33cf,2018-07,51.520059,-0.084251,On or near Sun Street,Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+d2f88b399dd60205e10eae25c24ec62c8b01ee73fae656b5a4d2fc5a2c396668,2018-07,51.513394,-0.084199,On or near Cornhill,Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+aa48c571b32b48c4373b623a3412f303dd2e7238232741d7da69ecc18475945d,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Public order,Under investigation
+e366f9bb50916a1067287f04acb0bcc49adbd4aaf376adcf92b08890e3a462e7,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Public order,Under investigation
+313d0a2cd00dd48dd49a83b3040027b3185537b5ce30910766410c451d7c1562,2018-07,51.520658,-0.094546,On or near Beech Street,Public order,Under investigation
+b4ed1603e262f508476967c7fb835c4dceccd667a65583de519723ca8353743b,2018-07,51.511916,-0.076853,On or near Nightclub,Public order,Suspect charged
+e99fb3ba0ad613241d13c562cfd9c40b85cf919b84bd956f437ab9116fc874b3,2018-07,51.518433,-0.078856,On or near Artillery Lane,Public order,Investigation complete; no suspect identified
+1180c10fc76baa8c440a3ae3504a4653fddb8970a2d30d3cc59f728c86ea4f8b,2018-07,51.517032,-0.089451,On or near Bus/coach Station,Public order,Under investigation
+fbc8d9e22665edad80025df46c6f86e22e4b3d200ab871bf632c36c977ecab66,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Public order,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Public order,Under investigation
+529c872ed6f6d19d646dc8f771534cd0fc3aec5caeb1ad13468d134721cfa5ba,2018-07,51.511625,-0.081549,On or near Mincing Lane,Public order,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Public order,Under investigation
+7f767e435a57d9386de321a53f153e89cf0c71318db6dc4e9cd35fb6bdbc1513,2018-07,51.508066,-0.08778,On or near Borough High Street,Public order,Unable to prosecute suspect
+9c84034d99b16549b7e2a5471ccc152eae75ce734b5838d70901cc7d76f2099b,2018-07,51.513524,-0.090506,On or near Poultry,Public order,Investigation complete; no suspect identified
+5713d6ee91ad1f0dd7ebb6a65be7c0cf956dd6b1339c0cd669fe5b52ce515182,2018-07,51.513394,-0.084199,On or near Cornhill,Public order,Under investigation
+48eaef0e222f94da7fb9ea0392c667a1b2c496f79176fe866b941a9e342f8680,2018-07,51.516351,-0.082965,On or near Wormwood Street,Public order,Under investigation
+61b67a59a478c8af1a869d8b951d1f895a255521c0f3b10ddd0916ce350fea24,2018-07,51.513268,-0.100202,On or near Dean's Court,Public order,Under investigation
+b3389402ce094046315d3b97b5974da43c6854d7533b29d025c757972a694732,2018-07,51.517576,-0.079786,On or near Police Station,Public order,Under investigation
+948fb0298702fa2e286dc1ac9e07ccf30fddfefd48f6e3533b10ffda062a8cb4,2018-07,51.516351,-0.082965,On or near Wormwood Street,Public order,Under investigation
+b071d4ef10d0f265ebcbb3589c29ccc4acb161e51806cac72e4363b3a750eb19,2018-07,51.517576,-0.079786,On or near Police Station,Public order,Under investigation
+dec2ec22fee9bf728aa3856486bf0146348791dbe13dc1e061080d891404b562,2018-07,51.513798,-0.079195,On or near Creechurch Lane,Public order,Under investigation
+,2018-07,51.511468,-0.09016,Cannon Street (station),Public order,Under investigation
+95650ff452fb5b17147b6979a9446e684c40d0f96f8ecb0349340f4b00fba856,2018-07,51.516351,-0.082965,On or near Wormwood Street,Public order,Under investigation
+c1ae7054bceda39bfdf1d3834383ed73c327c64fece81b4cc983f019cb58d0e2,2018-07,51.517576,-0.079786,On or near Police Station,Public order,Under investigation
+f0621fe497c4ed0f7beae6610199f17011a795791a9f238d5016b290083cef7c,2018-07,51.514151,-0.074958,On or near Aldgate High Street,Public order,Under investigation
+a03d05bc2d8c9cef44777ddc7171d37a0f39faa6914531d10536bee2b49e77cd,2018-07,51.517576,-0.079786,On or near Police Station,Public order,Under investigation
+2d218462faaf20ab762aeb0d1baa56f48a9bcee4207891e6f51eb289a082f8f5,2018-07,51.511554,-0.079448,On or near Fenchurch Place,Public order,Unable to prosecute suspect
+8506acd1584e507df144e7620c3a63e91922d34ccefbe488e9e7f17780c4fc71,2018-07,51.511554,-0.079448,On or near Fenchurch Place,Public order,Unable to prosecute suspect
+,2018-07,51.5134,-0.088514,Bank (lu Station),Public order,Under investigation
+d2c11cc3215e0ef6fae82cd17d33dfe5b17d997993a36f14b5781090b255d588,2018-07,51.518433,-0.078856,On or near Artillery Lane,Public order,Investigation complete; no suspect identified
+,2018-07,51.5149,-0.097602,St Paul's (lu Station),Public order,Under investigation
+78f8bf389ebb1c85f3b5ee2848233166173fc5f87d4d32fea0a7290abe39fff5,2018-07,51.511118,-0.090203,On or near Scott's Yard,Public order,Under investigation
+4e542b2b84c1d00917636a8fc5daa48fcfe36413692c3946ffa513f1bc35735e,2018-07,51.511749,-0.108018,On or near Temple Avenue,Public order,Under investigation
+5a40326f5783752d6c4b9d4a999990f0c63884b973596c09b872eb682e636364,2018-07,51.516386,-0.108965,On or near Plough Place,Public order,Under investigation
+,2018-07,51.5143,-0.075727,Aldgate (lu Station),Public order,Under investigation
+,2018-07,51.5184,-0.08903,Moorgate (lu Station),Public order,Under investigation
+5551294d8328b7dae03e4ae432429498381aeb3a450fe14acc30a50949b1728a,2018-07,51.512027,-0.082527,On or near Cullum Street,Public order,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Public order,Under investigation
+d32eb1c2f0fbea6bff24ccf19ccc68ffcc24c283d3e3599ecf949796f863676b,2018-07,51.513051,-0.104001,On or near Apothecary Street,Public order,Under investigation
+,2018-07,51.5143,-0.075727,Aldgate (lu Station),Public order,Under investigation
+70a37f5b446e4afba78977821ce7d1b00a496172a79fd9fd43d909c9aab7ed89,2018-07,51.517244,-0.080376,On or near Supermarket,Public order,Under investigation
+e7c46c2f7f1f9b28873f4c6e466c1662e6a7119975a96ae7d5d51b776d1c0bc2,2018-07,51.514766,-0.096075,On or near Foster Lane,Public order,Investigation complete; no suspect identified
+89300f980f0405ff43c234136afcc1d803f1018372a72b21eb377efad53d73e9,2018-07,51.515307,-0.097277,On or near St Martin's Le Grand,Public order,Investigation complete; no suspect identified
+68fcaab6201d2c99f8df2f060f5bcc66742ccc65aef90ad2c2e02d1ba4f69e72,2018-07,51.517912,-0.104909,On or near Parking Area,Robbery,Under investigation
+90f8cf64796a0d3dd9390e2f92a81ef1f8a7d9790db9de95089a1d975cac84b5,2018-07,51.511625,-0.081549,On or near Mincing Lane,Robbery,Under investigation
+d6c94dc4dea52f66e42343877d1d671c08ed02bd6922ee0297ca293c46bab88c,2018-07,51.513647,-0.07433,On or near Little Somerset Street,Robbery,Under investigation
+bdcde5551cb86d5d50c3d916135293eab2f425334cb9577e5fa1193320b7a7a4,2018-07,51.514158,-0.100179,On or near Shopping Area,Robbery,Under investigation
+5d5da8894c087bf93334d82370512ed0e7569da6e9260df594e274ef6807580c,2018-07,51.515849,-0.077596,On or near Artizan Street,Robbery,Under investigation
+c268d695156875472fe12e8bcab3ce1d9719564361ac30fcba2f653625eb62d7,2018-07,51.519365,-0.088013,On or near Ropemaker Street,Robbery,Under investigation
+5f18b15c2828ddc734ec9a8f37f908b797bdb8f50f7de3db715296c4911c35a5,2018-07,51.515504,-0.07627,On or near Gravel Lane,Robbery,Under investigation
+c19cf62fa7067ec3e301e1b62cb8b9488dd65ce950bd0d2862f2271fff262897,2018-07,51.51322,-0.095015,On or near Watling Street,Robbery,Under investigation
+950fd3a2ec0ce1af0f88267036205b1e3863ed502da04aa1f2eb19cd237c4e76,2018-07,51.508066,-0.08778,On or near Borough High Street,Robbery,Under investigation
+f4939f867eb0fa8463f62a401e241d03f2f76f6723836f7c53f54dafc2bb3ca4,2018-07,51.517576,-0.079786,On or near Police Station,Shoplifting,Under investigation
+dd271a87f653546a4ab0adab617479179bf71d338db1df1e86f7c67779c0902e,2018-07,51.511625,-0.081549,On or near Mincing Lane,Shoplifting,Under investigation
+e7c7715e6e41b60a15da0a66f31c013d31390d60cd4e9fd3a1a91f6ae5841f07,2018-07,51.517431,-0.082458,On or near Liverpool Street,Shoplifting,Under investigation
+3529f6683f5c39d107d58d4f06ca0ce1686feac0658f183e1b9e73cc3b82b574,2018-07,51.517431,-0.082458,On or near Liverpool Street,Shoplifting,Under investigation
+831dbac2c9fad66115b3917a4cc41d0ec92215fccc51f4d2d750840d06d2d504,2018-07,51.511578,-0.083079,On or near Fenchurch Street,Shoplifting,Under investigation
+fe5cf4e11168b7901d99e0ad3b9e7f03d60bc5e090c920333f712ac977e623d9,2018-07,51.51144,-0.083993,On or near Philpot Lane,Shoplifting,Under investigation
+7cae6d6860c2bab153853152894e5aa0b5048f3c42ad539dd62178139db53ada,2018-07,51.513394,-0.084199,On or near Cornhill,Shoplifting,Under investigation
+dc7d69acd10c04e12d6361538f914457a3dd56c941ed7b4d70396afea684f2bf,2018-07,51.513394,-0.084199,On or near Cornhill,Shoplifting,Under investigation
+7bcde04f74b0901af4c19571023a7aa6a65db86ba28a2a51db5c3a97146d1ffe,2018-07,51.513394,-0.084199,On or near Cornhill,Shoplifting,Under investigation
+07f0fabb08b7e5ba36aec1e44ddb6edcbea16408e1eb43ec05ceaea7f57302d3,2018-07,51.512682,-0.084618,On or near Gracechurch Street,Shoplifting,Under investigation
+e47bf9266ef9d30148e38f7909ac6db527887a23c9e0bd6816feb7687100c37d,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Shoplifting,Under investigation
+34deb3457cfd89cfea3787fb83b4b8687a2d178be18215797335756b8fe413be,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Shoplifting,Under investigation
+7d8bf295e7c0af3abfbf22689b0779119eb2de8a8df3458e9305f659a960580c,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Shoplifting,Under investigation
+9663c44258ab80f28600a1ce8bc74fc700d9a02bc5b138275193711599d4cb81,2018-07,51.510828,-0.086166,On or near Eastcheap,Shoplifting,Under investigation
+b3bac369d7c98bc8d69cd48c4c529c6d8fea30a7dceac14a242e1e74826b19ed,2018-07,51.511794,-0.088042,On or near Abchurch Lane,Shoplifting,Under investigation
+44a330b7ead7a6c63761ba910e7b06701664a41d3f777269e95fe28cbee72067,2018-07,51.517149,-0.08776,On or near London Wall,Shoplifting,Under investigation
+a2df18a5c7192a71c27f486e10f7592f7e5c1d28f8ce3ce8e966778eb81d10e3,2018-07,51.511332,-0.088393,On or near Abchurch Lane,Shoplifting,Under investigation
+b250a6d0aa5fe620b566d62b19042254f9f94ba0ec06b3ecc50890a4572fa632,2018-07,51.511332,-0.088393,On or near Abchurch Lane,Shoplifting,Under investigation
+8bcd73838d04b269f91b38423b70a045eb6fad4b145fa7641f031437fa99a568,2018-07,51.511332,-0.088393,On or near Abchurch Lane,Shoplifting,Under investigation
+c78bddc386894a3dd71712861223debd8cc23562133371edf720608763021503,2018-07,51.517032,-0.089451,On or near Bus/coach Station,Shoplifting,Under investigation
+656b5ced69158c313f9b44a8c3b1c00d0c0e0edffe4de0abb0123346f61428f8,2018-07,51.517032,-0.089451,On or near Bus/coach Station,Shoplifting,Under investigation
+cb023df76246134bd073ded51832b161a16c15ebb828bcf3050dbf7b4cbf0cba,2018-07,51.511984,-0.094231,On or near Great Trinity Lane,Shoplifting,Under investigation
+a63c1702e56d1d3c23ed2874f95ae3a50346aa5818f810ecf912af681e0d741f,2018-07,51.514203,-0.094628,On or near Cheapside,Shoplifting,Under investigation
+0519e5e1f29d7bcd63e9f95ed47ff71d984053ba485e8894190f5f021f38e516,2018-07,51.514203,-0.094628,On or near Cheapside,Shoplifting,Under investigation
+fb87c71e2ec6217dfc5ce11061bb8e1e65bbc9abab3dcf7a2d7238620e8cea81,2018-07,51.514203,-0.094628,On or near Cheapside,Shoplifting,Under investigation
+5d1add5008400c4a0bb999a04cbe7600f820982b5dac46ff9219f4d776a41688,2018-07,51.514203,-0.094628,On or near Cheapside,Shoplifting,Under investigation
+795f0ce6aaa01c3bd98d51154fd0cc2490e3366872b0817b2fbee080304b620b,2018-07,51.513377,-0.096363,On or near New Change,Shoplifting,Under investigation
+1e57827038bff7ce5062cb9b657cebce2877eea0f6ae5665f9e2706a36c390cf,2018-07,51.513377,-0.096363,On or near New Change,Shoplifting,Under investigation
+b6d6d04ccf4b6c47f033860b826ca34d31010454fc491ab4a5f1bd1d7a7db18a,2018-07,51.513377,-0.096363,On or near New Change,Shoplifting,Under investigation
+3a0827107c7be11a0f5db648e2d06fb5ce0be9834537bc17164dda7982a2915e,2018-07,51.514766,-0.096075,On or near Foster Lane,Shoplifting,Under investigation
+a23e3d53695ac11b709cf56764e096634216c9c63db704e9f12055d9d8d4aa6b,2018-07,51.517576,-0.079786,On or near Police Station,Shoplifting,Under investigation
+b11cbaade53993c1a180915ee09b5a48899ac697c6cfd9a27941054e4a332556,2018-07,51.511554,-0.079448,On or near Fenchurch Place,Shoplifting,Under investigation
+44c978fbbab20869e932e6fabae6f504ef07285c38467b9f8ac79d779ade24e0,2018-07,51.511554,-0.079448,On or near Fenchurch Place,Shoplifting,Under investigation
+b7800bba3d765b3de531b76de59411bd4d6dd7a02fa398327d73b65364f75f87,2018-07,51.518433,-0.078856,On or near Artillery Lane,Shoplifting,Under investigation
+5f78529e8545cc87b28c66df25b82ded5941b0f149c054c361c42fba2e26e3ec,2018-07,51.511828,-0.080244,On or near Mark Lane,Shoplifting,Under investigation
+13c0b3deeb5f6e64fb3e4bcde5ffb694040c670eafff3ebd746e166d13be26bd,2018-07,51.511828,-0.080244,On or near Mark Lane,Shoplifting,Under investigation
+8298302bd8a03a898624759e95b8922a98c35b8ae0925d50055a04dfb5abf660,2018-07,51.511828,-0.080244,On or near Mark Lane,Shoplifting,Under investigation
+60ab1614f79ed65915e46455fe5d4c93e13e978738d07aa7d5f09a9e5936bc43,2018-07,51.517244,-0.080376,On or near Supermarket,Shoplifting,Under investigation
+5ef822636a4869f858980ae8cc7647861fa345931c8461e4f9076493c6019967,2018-07,51.517244,-0.080376,On or near Supermarket,Shoplifting,Under investigation
+07a38c34930db3c75fa04d0818f417329ba1979696bcd36aed6376e76afef623,2018-07,51.517244,-0.080376,On or near Supermarket,Shoplifting,Under investigation
+a1d4e9b71f1ff07095a110ffd991bad0f480598fe1448150d7be2bb88b50045e,2018-07,51.520699,-0.097601,On or near Carthusian Street,Shoplifting,Under investigation
+b8370eeb2a32131a27be7d5fe26024b63418167359dd7176c1b8c34316f50972,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Shoplifting,Under investigation
+d712b36fb949afc2c95cc8d02b6530d9d3890bbf8110a7d5a6242e6a3d8d6978,2018-07,51.512749,-0.104244,On or near New Bridge Street,Shoplifting,Under investigation
+7c3a8cf5482af5f14d733d58825a687a198b9c7b79a52cca740b7a60b8716b4a,2018-07,51.514109,-0.10328,On or near Ludgate Hill,Shoplifting,Under investigation
+9594a4970a278ce5e81e7ad7308b64e670b8545404bbe40a5352a2df6acdeae0,2018-07,51.514109,-0.10328,On or near Ludgate Hill,Shoplifting,Under investigation
+505acbd98a253feb04d96539f32ee38a1274f089d32ac94a81b251590969da17,2018-07,51.514463,-0.093465,On or near Russia Row,Shoplifting,Under investigation
+2a09628517c78004faaa692dc306f052b8976d928d91bc479bd98b071cd4be05,2018-07,51.514463,-0.093465,On or near Russia Row,Shoplifting,Under investigation
+0f053a79a90da3840e32aa379bf6c28f5203c2ec2c002daf06d763b1b51a4ebf,2018-07,51.517836,-0.110735,On or near Further/higher Educational Building,Shoplifting,Investigation complete; no suspect identified
+4d7c550b9842c75eb5b01a410deb264f0ada419d8dd63e9ca814628290ab8844,2018-07,51.517526,-0.108283,On or near Supermarket,Shoplifting,Suspect charged
+9b350c51238c3e249159ba6e2ff7b1409e1a5058c5b48105baa5bd0f0017c581,2018-07,51.512692,-0.104621,On or near Supermarket,Shoplifting,Local resolution
+cdc3f44e4d417dd43150b4ffb33b49d3e90884af5d492ada4b70cfa05d2a05ce,2018-07,51.517526,-0.108283,On or near Supermarket,Shoplifting,Local resolution
+913fdc980fd26e58302a11f282c82512bcc6b7d9d94c4e5fe6ac893875c90c8a,2018-07,51.516207,-0.101794,On or near Newgate Street,Shoplifting,Investigation complete; no suspect identified
+c00c16eee868d3cbf2f27293d22e744b845db22d00e7587377674c4aa4c8d77e,2018-07,51.514158,-0.100179,On or near Shopping Area,Shoplifting,Investigation complete; no suspect identified
+cb69b767382e98df39534fc86452b226438b592823df938915f2d0f52e8d1fcb,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Shoplifting,Investigation complete; no suspect identified
+a7a587e78e0177191c05d960701a1fbbb99f036aa1ac9bcbff9036176739b8eb,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Shoplifting,Investigation complete; no suspect identified
+ea981d84ca5f2c643170fc3e802d38e99129419b07ab8f38bad3f661875ec46a,2018-07,51.514513,-0.096561,On or near Cheapside,Shoplifting,Unable to prosecute suspect
+7ebf7a8427e198a615ac1b893eb5858649150b9356c7069ab97231b83b4c5644,2018-07,51.513377,-0.096363,On or near New Change,Shoplifting,Investigation complete; no suspect identified
+3c9d179a405c057b455ede9f9bd00a641a6d3d93e894dc2c739969800942bbc0,2018-07,51.513454,-0.09172,On or near Supermarket,Shoplifting,Investigation complete; no suspect identified
+3704a6601ffda31b9683dbd78c7f80f443fedde03d52c6afb5ad8d91f61b849b,2018-07,51.510894,-0.086393,On or near Eastcheap,Shoplifting,Suspect charged
+c2f332830dc839cb967aca8e9a98bb9671afd82cce3cf78a57d19aadd0a771bc,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Shoplifting,Investigation complete; no suspect identified
+5908fa22204f847cb8243a8fbd151269a566b51e18a54861b16c419569bca3aa,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Shoplifting,Suspect charged
+9dc8a68f8a90e4f9ba94f268211f003a1a7e9d275cfa255b4e9b00a332a8be5a,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Shoplifting,Unable to prosecute suspect
+59927aaa374d0f4542473dff4d29f079319996e4d56f33360f51c0dad60c8641,2018-07,51.511625,-0.081549,On or near Mincing Lane,Shoplifting,Local resolution
+cf3584d30752f549c80e2d99d5b8421e7a3048c30abb4744ea9ca93bebdf16bf,2018-07,51.517244,-0.080376,On or near Supermarket,Shoplifting,Local resolution
+6ef9aea03e23291bc68aa6597311be4281b2c07ae17febecc2c692e830616428,2018-07,51.516855,-0.080234,On or near Devonshire Row,Shoplifting,Investigation complete; no suspect identified
+17418b058abf8f476b6880c6cf0d261d3aa735b33f50d85be3d5c0f796b7e6a6,2018-07,51.511554,-0.079448,On or near Fenchurch Place,Shoplifting,Investigation complete; no suspect identified
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Shoplifting,Under investigation
+,2018-07,51.516343,-0.103475,City Thameslink (station),Shoplifting,Under investigation
+,2018-07,51.516343,-0.103475,City Thameslink (station),Shoplifting,Under investigation
+,2018-07,51.5118,-0.076901,Fenchurch Street (station),Shoplifting,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Theft from the person,Under investigation
+593f16cd63aa2655500f2420149b2b0c78a00d6801c9c7bfc42e8915d9984cce,2018-07,51.510949,-0.084201,On or near Philpot Lane,Theft from the person,Investigation complete; no suspect identified
+87b3e002dc59f5ed956e978c1ed12666f2e335cbaa381325fb758010a518a881,2018-07,51.511625,-0.081549,On or near Mincing Lane,Theft from the person,Under investigation
+9811b32f3cc3fca76c7d7f2cc57c82861778d725059f7097afe6c3d29dcffaff,2018-07,51.513129,-0.094933,On or near Bread Street,Theft from the person,Under investigation
+e4cb4a7c45348b48d25e21949ccde610c42c7200de40350c97731ccaf35971dd,2018-07,51.516233,-0.077392,On or near Harrow Place,Theft from the person,Investigation complete; no suspect identified
+c70eb8e547be517af84c32f3066cba99017e944e0ff2a857cf04cfcc693e8f78,2018-07,51.513377,-0.096363,On or near New Change,Theft from the person,Investigation complete; no suspect identified
+6ed8669211a7777b8e98beb5b56574148a10ec197777feb2b3dc09691d230fc6,2018-07,51.514204,-0.106922,On or near Fleet Street,Theft from the person,Under investigation
+c2ba6655c774f96539419d075cdc5072ae03388c5c6e0329cbe82681489dd5ea,2018-07,51.509532,-0.088843,On or near Parking Area,Theft from the person,Investigation complete; no suspect identified
+fc94a8c7caa7cd330cf216941ccb2fc5e76ba5438f283daea46efe86066acfb9,2018-07,51.517836,-0.110735,On or near Further/higher Educational Building,Theft from the person,Under investigation
+f1e5d1503f7c7785b064cdb25cde61050334fa5f99487a7be791eebc776c992d,2018-07,51.518231,-0.112939,On or near Southampton Buildings,Theft from the person,Under investigation
+3b4fe2263bac63284d8daaafe41bc00c10a51f08f237eadef4c60fe5dad79487,2018-07,51.518374,-0.088473,On or near Moor Place,Theft from the person,Under investigation
+5571ef464f1c7498048bcebfffdcbd245f06a848618ac50a3891f60f31cc18d9,2018-07,51.517576,-0.079786,On or near Police Station,Theft from the person,Under investigation
+dd110c371ac18ee8beff82b27137bfd184fcb9cf02c179cb72b653422ea3b740,2018-07,51.510494,-0.084983,On or near Supermarket,Theft from the person,Investigation complete; no suspect identified
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+2fca118a1a54ad099ed6d8f7fe2db5bb48cef0a36df7feef230b4dfee2448e7c,2018-07,51.509614,-0.079011,On or near Pedestrian Subway,Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Theft from the person,Under investigation
+b8dec674c9a607b26383c7f901123a28473c0edf8a4ca9efdedb5556f2226849,2018-07,51.512652,-0.092719,On or near Queen Victoria Street,Theft from the person,Under investigation
+444cecd080631e20caf93a96afdbeceb4d04497bc69c60de1597be7d400173bb,2018-07,51.512652,-0.092719,On or near Queen Victoria Street,Theft from the person,Under investigation
+2d69d1bd90c0dce37407b7b777e5fd8f7e520c34fd19bb41f0c53bc0982fc3b6,2018-07,51.512652,-0.092719,On or near Queen Victoria Street,Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Theft from the person,Under investigation
+3c1c534c19818538cce20ad21def710fde5512d0d2c820909e2d436b9d239ef8,2018-07,51.513447,-0.093493,On or near Bow Lane,Theft from the person,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Theft from the person,Under investigation
+9704f7b48bfab7478abdea77076eaac9a77cbf2d02093c71732f7330bea2b20d,2018-07,51.517576,-0.079786,On or near Police Station,Theft from the person,Under investigation
+23f7fece6eea106d2697202dcb70347890e22f5d4ce0204ff7cf586b6d6a7457,2018-07,51.513132,-0.09071,On or near Queen Victoria Street,Theft from the person,Under investigation
+dbfa9daef1bbd91eb101f78dd7b3676347eb87c4af6573d61140d9b8ff8d1180,2018-07,51.513928,-0.108231,On or near Pleydell Street,Theft from the person,Under investigation
+8e9eee879bc205d051a3e7384868dc2b821bfc7a6843dda4c286ae824d02aebb,2018-07,51.510855,-0.089465,On or near Gophir Lane,Theft from the person,Investigation complete; no suspect identified
+d7663c94912fd2636e761ff548a73cfa8da03388b8a75a5204e6cb1aeb56c234,2018-07,51.511794,-0.088042,On or near Abchurch Lane,Theft from the person,Under investigation
+72f45643d897c60b9ad8fe90548dd482c82a0d46fe3d063501fa9367747a7bb6,2018-07,51.508066,-0.08778,On or near Borough High Street,Theft from the person,Under investigation
+9a11fef8e41a90f18746eda8171045c87d095bd5564eb183ba8e6cc74f451da8,2018-07,51.509757,-0.083386,On or near St Dunstan's Lane,Theft from the person,Investigation complete; no suspect identified
+13fd42bf3554467794e79ecd67bfa9769d7137f044bdfbaa51e629ee416e9176,2018-07,51.510477,-0.086728,On or near King William Street,Theft from the person,Under investigation
+6104863d137773c63fa5c05d1efe192abc014ac868c06bf02f01f33c7f327393,2018-07,51.513569,-0.086051,On or near Finch Lane,Theft from the person,Under investigation
+364871ffc17014e6ecededc3991cb6f1bf6f206bbce1a6716413ff8d62633518,2018-07,51.513463,-0.082913,On or near Leadenhall Street,Theft from the person,Investigation complete; no suspect identified
+,2018-07,51.5134,-0.088514,Bank (lu Station),Theft from the person,Under investigation
+2209ac57bcae936c102481bba390814e5b7a81f96956782ffceba97fec666aaf,2018-07,51.513928,-0.108231,On or near Pleydell Street,Theft from the person,Under investigation
+c5ab3c1b8fe1b0f408b4816cfd5fe9fab101b6e72f1290dcc4a74e452be5e5af,2018-07,51.5112,-0.085257,On or near Talbot Court,Theft from the person,Under investigation
+78113721875a2192492498ae3bad563bad33023ab773edc4c82783d69e1885f1,2018-07,51.517431,-0.082458,On or near Liverpool Street,Theft from the person,Under investigation
+55739c4c199f678e1952b95895d2d25570b3f8e5dd00b0c57e47372016fe8b7e,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Theft from the person,Under investigation
+ac26844dd0addfeee1e247fecb44f1209ead72f8af4daf312aa8da6d5509e98d,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Theft from the person,Under investigation
+78851379cec1487d2882e483b4ab919a6f8cb04d37c51db7066588515c517176,2018-07,51.509614,-0.079011,On or near Pedestrian Subway,Theft from the person,Under investigation
+f1483336868d6808c46a84ad95354a0968f2e37356ff3baf85c5ec3c28fe0143,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Theft from the person,Investigation complete; no suspect identified
+aa192cca6c8b9de3acaddf2a813b61e1454aa52d16ebf7d1c55ebda3aea8437b,2018-07,51.513928,-0.108231,On or near Pleydell Street,Theft from the person,Under investigation
+a530dda37676cb06f22de2427103d5bc3a451d396487e1f6553d4050272e6a9b,2018-07,51.517909,-0.109709,On or near High Holborn,Theft from the person,Investigation complete; no suspect identified
+82a197868bc4044466de0041acd58059c7fad0ba8b284028759bbf2729e08a80,2018-07,51.514992,-0.091151,On or near Gresham Street,Theft from the person,Under investigation
+18266ca650caba05d72dda0cccfb546a1d154ed06845758a5df79382b322f3ac,2018-07,51.511879,-0.107148,On or near Tallis Street,Theft from the person,Under investigation
+45321973ec4bad061419b103191ede7c6b7ee22e0b3a0cb8f85dcebfb7656fac,2018-07,51.518046,-0.077777,On or near Sandy's Row,Theft from the person,Under investigation
+841d427fd5ca3b9ef32a8b5d102683752439a60ae0f76af9506c1a40d8e4f151,2018-07,51.511761,-0.1043,On or near Pedestrian Subway,Theft from the person,Under investigation
+c5c81bfcd2d5924e612ee480126d87f7310e6396c67be9ded64bcf0d2656f52a,2018-07,51.51265,-0.101452,On or near St Andrew's Hill,Theft from the person,Under investigation
+10f4d71fc759efb7d007ab4db895b8cd5e18637e0c95aea14beab56f331e900a,2018-07,51.51265,-0.101452,On or near St Andrew's Hill,Theft from the person,Under investigation
+dd9a1c1502485583aad0f59028e8204114513b3e1784d2b5a2a3119df95f2fd4,2018-07,51.508066,-0.08778,On or near Borough High Street,Theft from the person,Investigation complete; no suspect identified
+f34f086e6de6a1ac1962a50aa9bd37c4a8aad3e19d3ac1e291fd8efc9dd5e946,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Theft from the person,Under investigation
+406dffccd2bbcb340f816f171f315cd81896eeab71a75142c5e6df0cbee7f861,2018-07,51.51265,-0.101452,On or near St Andrew's Hill,Theft from the person,Under investigation
+f31d441cd9c422edcb1c10aa54ef4788ebf4c3e3848e3ea1b0fcec17e3db1229,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Theft from the person,Under investigation
+4b124a194d1d8cdbe6935ea347b3efc45bc07dc6776067a581a1086046fc1091,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Theft from the person,Investigation complete; no suspect identified
+c69c6b89984b9ab2beff012897fa7bcf8e309c1a4aa2c413d9fba4875fabedfd,2018-07,51.51265,-0.101452,On or near St Andrew's Hill,Theft from the person,Under investigation
+b4941dd42a9c9d51125f94d452025979b302f4d1e57f7baad48575b68cd9df7e,2018-07,51.518619,-0.088621,On or near Moorfields,Theft from the person,Under investigation
+2de1f40c0416222b6533b3d9240811a88246e7dd959bfa68b1786708fd651429,2018-07,51.512678,-0.079444,On or near Fenchurch Buildings,Theft from the person,Under investigation
+3daf904ef9df648228958837d42e7bf8a7ed26797451f9ecea9a4d35760f4f47,2018-07,51.513319,-0.088944,On or near Lombard Street,Theft from the person,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Theft from the person,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Theft from the person,Under investigation
+a42ef0824b57fd5b0ac8b42b90136b98d85e3100fe28bdb1c95f72b954673dcc,2018-07,51.521853,-0.094468,On or near Golden Lane,Theft from the person,Under investigation
+,2018-07,51.511468,-0.09016,Cannon Street (station),Theft from the person,Under investigation
+c674ae5cc275e98606e829a129e075b6dec67f1568bb0aff7f4ad5bb3d5e5ad5,2018-07,51.512952,-0.096814,On or near St Paul's Church Yard,Theft from the person,Investigation complete; no suspect identified
+,2018-07,51.5143,-0.075727,Aldgate (lu Station),Theft from the person,Under investigation
+b7160e9cb4e63d4bc9998a904cc22fd2272559a3beb55abcc01ca507653742e7,2018-07,51.509344,-0.080665,On or near Pedestrian Subway,Theft from the person,Investigation complete; no suspect identified
+,2018-07,51.5184,-0.08903,Moorgate (lu Station),Theft from the person,Under investigation
+acec8221269e2fa8e399734d81b74d95e5cc10f0ebef27c577ffd5bd3aece53d,2018-07,51.517431,-0.082458,On or near Liverpool Street,Theft from the person,Under investigation
+e67c350a351843bb54769f7c12e8de25b1ac076440514ae28b1f3d9e1708e3c4,2018-07,51.511208,-0.074793,On or near Pedestrian Subway,Theft from the person,Under investigation
+,2018-07,51.5149,-0.097602,St Paul's (lu Station),Theft from the person,Under investigation
+,2018-07,51.5149,-0.097602,St Paul's (lu Station),Theft from the person,Under investigation
+fce888769452b4e0f51edb3b68416aac2f61af7f865abf5ccbf0165a1156a690,2018-07,51.516966,-0.100884,On or near Hospital,Theft from the person,Under investigation
+2839b934922eb4d7e89f0f6ee42be453565b600ccdb936bed6117104ec38ffe2,2018-07,51.512526,-0.098777,On or near Knightrider Street,Theft from the person,Under investigation
+e0ae21fb4312be1e6af31e341df73b8fa5150941a00160813e8d909d9ce83a86,2018-07,51.518091,-0.078308,On or near Widegate Street,Theft from the person,Investigation complete; no suspect identified
+ed0c89ca032b93babc76fa65805be1e6049f76b92e17faa9128e91d699a5d55e,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Theft from the person,Under investigation
+cc4bb83f0fd5cf6d152595c5a335bdca3d2f58f986ccf2650022092c886ebc1e,2018-07,51.513377,-0.096363,On or near New Change,Theft from the person,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Theft from the person,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Theft from the person,Under investigation
+fdccb7876313795d41c2bec3800d0cedbb00b55f5f49a946d5c290e4b4aef272,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Theft from the person,Under investigation
+48bd0e5df7ffed2b17ca9c36b3f45aa9cf26f84486c2da4c2d87c1b4b2ab289f,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Vehicle crime,Under investigation
+163c7afee7a3035ad279c7b86507c8bee39f6a9d163de18f073da5d0d826ad10,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Vehicle crime,Under investigation
+282c23f85834f5e7e4cbc24346fb99d8443cb2359f0c4b7eafb7a33de296cd82,2018-07,51.511224,-0.074115,On or near Goodman's Yard,Vehicle crime,Under investigation
+0cebc55e5ecc15b330ccb187c1859fdeac3aba6718a5a253b6fed9d80cfb1ba0,2018-07,51.50995,-0.078665,On or near Muscovy Street,Vehicle crime,Under investigation
+709b274179dc9222f594307ead9c7c1f8cdfb8bd74fcc66e9bde7c99afab0f30,2018-07,51.513928,-0.108231,On or near Pleydell Street,Vehicle crime,Under investigation
+7ea262085fa94ceec108f96bc2cfe6b903646daa0fa66743d9fea696cd50df46,2018-07,51.518709,-0.101345,On or near Parking Area,Vehicle crime,Under investigation
+5b7f94deb81c288cb88f2ed22a16afc2d96c4b63c8b56bd01eb0648460bce171,2018-07,51.518709,-0.101345,On or near Parking Area,Vehicle crime,Under investigation
+a08a00449458ae8e4a616773176aefce1597d15dfb6d5fc23cd3a1decc9ecc9c,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Vehicle crime,Under investigation
+74a5b9df2ef0e89a13c1267d011c715895f74b1238bb02c6340ddf00c88afd72,2018-07,51.518709,-0.101345,On or near Parking Area,Vehicle crime,Under investigation
+c8aefb7d8a414c7964c722d811c4f4d0017ec59edc889a23b6fac96b6d5df647,2018-07,51.517149,-0.08776,On or near London Wall,Vehicle crime,Under investigation
+90e061b0bd331649761e3f9d80a1b07bab11e09b1e67916a949ed8272fcf2e00,2018-07,51.511453,-0.077637,On or near Crutched Friars,Vehicle crime,Under investigation
+5b5ef29d62f188a53781faf92794670da66db30ab762ae47e84624f0fa115ecb,2018-07,51.518864,-0.097562,On or near Parking Area,Vehicle crime,Under investigation
+3cdf3d506dbb8555905634565d99276fcc22635d9148e2d723095d08f9f39e62,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Vehicle crime,Under investigation
+bd6b745b0c40850fcfdb963efc5495cc150a80ffcd81a2128656d03339168bae,2018-07,51.510828,-0.086166,On or near Eastcheap,Vehicle crime,Under investigation
+b2fb07b37c91d0b303a5e7de7f54995e3ed5695208b81abc8b308c2a9b3b704a,2018-07,51.516508,-0.079398,On or near Devonshire Square,Vehicle crime,Investigation complete; no suspect identified
+46dda1b90e07cd352dc22ad291ed1977e9bd791b1269da03c10b6ae644fd433a,2018-07,51.516614,-0.107485,On or near Thavies Inn,Vehicle crime,Under investigation
+83f99ff6e857e7cfcf1ca687e007adef77daec550d6d3b2b23a2385f33ebb215,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Vehicle crime,Under investigation
+fb9280e6a2b5c68f61b3b1f463fd00878d3a32ecad2cfe324e785571359749c8,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Vehicle crime,Investigation complete; no suspect identified
+f5b4274b016d8199d1af7efcc09a9d76a95cab44c4d0897e47578d370a954c86,2018-07,51.518709,-0.101345,On or near Parking Area,Vehicle crime,Under investigation
+5446cea91ef0d75b45aa17276baba0c13dcd0487e582a5530c78e4a359adc6b0,2018-07,51.518709,-0.101345,On or near Parking Area,Vehicle crime,Under investigation
+0e1eacb190505af867a3e0b9fea15a690aeafe3df8aeb97d84f9b5f747746a02,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Vehicle crime,Investigation complete; no suspect identified
+bb318af1ccbbd1bbc5e25c6eef9160327bc733d6c2c032eded07684fae900e99,2018-07,51.510182,-0.092865,On or near Parking Area,Vehicle crime,Under investigation
+b7e91f37dac89c6293e4aeb51540e5d1b26585c149e76665cf09ee82ffe5edee,2018-07,51.511386,-0.092296,On or near College Hill,Vehicle crime,Under investigation
+7215a70321bb6773550db799f577087656546bc3b0c579dd68d7cd1f9344a38e,2018-07,51.51768,-0.078484,On or near Catherine Wheel Alley,Vehicle crime,Investigation complete; no suspect identified
+5aed932cb9382fa4e51dfaeaed0371a1d55572ee64307562434e4ad31be571ad,2018-07,51.511775,-0.075389,On or near Minories,Vehicle crime,Under investigation
+bcfb3f5309528a786de97db9208e0b484e606b61ad59ab3ad93d9c61dc9b98a5,2018-07,51.512652,-0.092719,On or near Queen Victoria Street,Vehicle crime,Under investigation
+e403e4aadaef4f54ce85c146b95afd9b2c8b3bee467bb9a15d910d81f0b3185c,2018-07,51.512147,-0.092077,On or near Tower Royal,Vehicle crime,Under investigation
+34293d6d75ace7bba2bf261225356fe757c042da995e13b22d64eb6bf9dfaf4f,2018-07,51.513454,-0.09172,On or near Supermarket,Vehicle crime,Under investigation
+31736653613cfc80ba4ce2d9fd6ecb6de42fa393dc90cfe573204e39bb605f85,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Vehicle crime,Investigation complete; no suspect identified
+7cc4073433c6457eac3e0a40c252a7eeaf1ffa0fbd6762004d845f86c9472c39,2018-07,51.512462,-0.076095,On or near Vine Street,Vehicle crime,Under investigation
+,2018-07,51.5149,-0.097602,St Paul's (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5149,-0.097602,St Paul's (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5149,-0.097602,St Paul's (lu Station),Violence and sexual offences,Under investigation
+bd06380721a9415f80d668eeac40e566b7a5c7073dfb8693a26355b5b1f76727,2018-07,51.516351,-0.082965,On or near Wormwood Street,Violence and sexual offences,Under investigation
+,2018-07,51.5184,-0.08903,Moorgate (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.51079,-0.086052,Monument (gt London) (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5121,-0.094102,Mansion House (lu Station),Violence and sexual offences,Under investigation
+d9c177fbef0387af13fe28faea22218228aa0426065fe7d47553aeea26e5bac9,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+5a18fa103c97a9e1c530ce1be0f3cb26347112e4ff9ed74a3628e080c9538258,2018-07,51.511625,-0.081549,On or near Mincing Lane,Violence and sexual offences,Under investigation
+b9d8a985fc36d9dad6d5ada63b522e06b46a2eb741f534fbd18f280769ad3efc,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+273008bfc6bbe5ab126aab3f9c9f51875782071190433b96b162736d08a79151,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+64d84e26a41110c2c6b42b90ffd07a5dd1419b79937de967d7b95c7ea46f23d4,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+6f0000fa0400c46c7d699407c029486a714b39625c8800f73c1c0ba6006fd1a2,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+ef049a9dbe60cc8cf52bbf3851d790be792a56ebed1b7b1c2a3bab3e100dd923,2018-07,51.513627,-0.076435,On or near Aldgate,Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5174,-0.082914,Liverpool Street (lu Station),Violence and sexual offences,Under investigation
+df0e15f86be794dc236e31fd1b7f32989937e585e3b16b46466692422e82fabb,2018-07,51.510868,-0.0969,On or near Broken Wharf,Violence and sexual offences,Under investigation
+a2f71817a64f5cdff03e0bd008911f0043d0761b73f18ef86f8112bde5e16c22,2018-07,51.51392,-0.093257,On or near Bow Lane,Violence and sexual offences,Under investigation
+c6239fe4f9e27947e36c66e92fcfc67c04f4f0db61e75197ffe7e75e07fa337b,2018-07,51.512139,-0.093821,On or near Garlick Hill,Violence and sexual offences,Under investigation
+,2018-07,51.5202,-0.097262,Barbican (lu Station),Violence and sexual offences,Under investigation
+e1c0f615457448a2f85ba9d3f2540a1d72633d6f1d6d3253cf46c1c8ce9800be,2018-07,51.515005,-0.093629,On or near Milk Street,Violence and sexual offences,Under investigation
+c1ac7f9cf7919d2b6bf73d1d264e31ae6993064222573ee37df4b73eede161bd,2018-07,51.511583,-0.093916,On or near Garlick Hill,Violence and sexual offences,Under investigation
+cc9fd48c66fcf6d95d9b150deb9f3b510773d585142343d2d40799b107523cae,2018-07,51.518189,-0.082628,On or near Sun Street Passage,Violence and sexual offences,Under investigation
+c59481fa2a39fc7296a7e2a3d02ea5af5ade6f8054439bd23e071802992896b7,2018-07,51.515882,-0.10668,On or near Parking Area,Violence and sexual offences,Under investigation
+dc3de6e44daa8845214a18e5cb42f3b05956c13f7586a4e5233c7ebca45942fc,2018-07,51.515882,-0.10668,On or near Parking Area,Violence and sexual offences,Under investigation
+c9054881a633b70752fb3fca290ddb8e4a5366d0f9c9e333bd54425992284593,2018-07,51.514699,-0.104134,On or near Old Seacoal Lane,Violence and sexual offences,Under investigation
+e817c52f4124c41079030cb9bf38427b9bc4a769cd59bb77f2cf6f0f4f9853df,2018-07,51.511453,-0.077637,On or near Crutched Friars,Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+8a4ce46dbb0633c0cfde48ad3a459892062a87288e504fc9b22fd2adc36ce296,2018-07,51.513051,-0.104001,On or near Apothecary Street,Violence and sexual offences,Under investigation
+9ff81b2936603e95c27418c45b104c944f5067be7e092a1f25d58408bc54f7a5,2018-07,51.509848,-0.104494,On or near A201,Violence and sexual offences,Under investigation
+83c1de96cc0202eb59d347e5340c3ec55c35b8d7f4955d6d4ba7b3e32fdf165b,2018-07,51.514109,-0.10328,On or near Ludgate Hill,Violence and sexual offences,Under investigation
+27f9a129b70d688aec102aa64e7ad42840c58c2faa8b58a5c71ac7f22a28aff5,2018-07,51.514109,-0.10328,On or near Ludgate Hill,Violence and sexual offences,Under investigation
+7cac687af86d4c435a413dffd35813f50006ab3de62a3f497e1cefa465c799c7,2018-07,51.518375,-0.10293,On or near West Smithfield,Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+e449614dbfa89c86add60dbba635c119e6942403d789973480b09e4718425e34,2018-07,51.513377,-0.096363,On or near New Change,Violence and sexual offences,Local resolution
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+b650a6aa734e05b1157faaae82a7a8912fddd7344534b2cf84576da435a1d1e3,2018-07,51.512791,-0.101274,On or near St Andrew's Hill,Violence and sexual offences,Under investigation
+fad5be9dfe38aa909eba28f2cb2f0948eca5fe1550e269627c986d9e7a5d71e6,2018-07,51.51322,-0.095015,On or near Watling Street,Violence and sexual offences,Suspect charged
+bd716f4257e4bc36f67eb675ed47facefbf72063b1c586748d0786c1b6d20639,2018-07,51.51265,-0.101452,On or near St Andrew's Hill,Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+7e916e133ab40d7846ebe91cabeb4f2f6a2187e69fe5e4edba42a5cc69f01d0c,2018-07,51.519526,-0.0985,On or near Middle Street,Violence and sexual offences,Under investigation
+0bc45aaf8d88097558bcd626606429ed2273914095cfcf6369d2dd9be90a3977,2018-07,51.510868,-0.0969,On or near Broken Wharf,Violence and sexual offences,Under investigation
+fb30c1d76fd41b3507f99bef3124104f51438cbe673f74ad23a066c8f9e9750d,2018-07,51.513524,-0.090506,On or near Poultry,Violence and sexual offences,Unable to prosecute suspect
+2cb01be5669b16cb656ffe19a846eceb5780e2d05d4c91fa0046b089bff0ed4a,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+245ba05cfac6da1cbb2950226bc675cfd70cf2ac87177b6e08ce08f78addcd2c,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+187441ab8c658d6610a419b4069b6f04ec76daf907412d83610e6b6c26479b67,2018-07,51.514656,-0.088225,On or near Lothbury,Violence and sexual offences,Unable to prosecute suspect
+40590d79ad1608d711f8b36170b0c0e580da3228971513874be59dd5f29f88e3,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+3b4dd1a5c601ec6adf69dce3129ae9f1a6e8fe93c3234f8f39a5996f2f97d10d,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+e1ec366f87f94a32e4fa13f2221e1e8011fc8dcc5fc31069d610883506a0f9f5,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Under investigation
+f8c28e4181fef586e6f5dda8ddf14be008212c32f75bedf938af48e614c228be,2018-07,51.514804,-0.080782,On or near St Mary Axe,Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+6ba0b659fc286ee7d2911fe8deca590bd508368602e28673f1e339cb881d4dbe,2018-07,51.517244,-0.080376,On or near Supermarket,Violence and sexual offences,Under investigation
+d0cec66dfe100b82a52b571b4b59dc43ae121e3d1022b4a12da003effe85b046,2018-07,51.517244,-0.080376,On or near Supermarket,Violence and sexual offences,Under investigation
+0ea71202e9cb4e9f87a4b693a54218fa81439f150734a8538631f599028b0a78,2018-07,51.510828,-0.086166,On or near Eastcheap,Violence and sexual offences,Investigation complete; no suspect identified
+74762e0bc7c1b06091bd96b9afb14f54b1b3f4e7e1276a27e98cf1e699b3b199,2018-07,51.510828,-0.086166,On or near Eastcheap,Violence and sexual offences,Investigation complete; no suspect identified
+1dacbf622fa53761dec4e317e82288e217363864acbf41ad0d5236610f992da9,2018-07,51.513952,-0.085833,On or near Finch Lane,Violence and sexual offences,Unable to prosecute suspect
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+e0947627a49905f0ac7529d9e289f450d36494b54495ce002e311b58e8ec4226,2018-07,51.512882,-0.084768,On or near Corbet Court,Violence and sexual offences,Investigation complete; no suspect identified
+cc4acad04e6ea6147a6079bf4a5918b566a9ec3e80f89a5d9dd888ac2d299360,2018-07,51.517244,-0.080376,On or near Supermarket,Violence and sexual offences,Under investigation
+4619ab4f37783eb0d02046dca0f9a97acff88d2203109c97ac111215a20c8caa,2018-07,51.520059,-0.084251,On or near Sun Street,Violence and sexual offences,Unable to prosecute suspect
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+5f28c35863c2541c79ed30d167da89b2e34804b00e44d9a2afa1c0a1d4e5396a,2018-07,51.518511,-0.08531,On or near Eldon Street,Violence and sexual offences,Unable to prosecute suspect
+c2d85c3e01108ec4d931a146cb9b715e9b4a646fb822eb7d7c727b707400a025,2018-07,51.517576,-0.079786,On or near Police Station,Violence and sexual offences,Under investigation
+64f0cb232dc30b52202449df59c2c07562129bb70a92cdab56fd8dc4140e26d7,2018-07,51.514358,-0.083755,On or near Threadneedle Street,Violence and sexual offences,Further investigation is not in the public interest
+45e9bc32a846c6deadf1238d699b0b481eb356464391f1f753795d130a264309,2018-07,51.514358,-0.083755,On or near Threadneedle Street,Violence and sexual offences,Further investigation is not in the public interest
+ac95c1cee85d3767131c194fd4e94d67a2c52c178db37cd446b2be41a0a980e0,2018-07,51.512678,-0.079444,On or near Fenchurch Buildings,Violence and sexual offences,Under investigation
+e76d8fce1510bfc137c95b63a4546183ba98b42787efeca312d217ff68427eb4,2018-07,51.516508,-0.079398,On or near Devonshire Square,Violence and sexual offences,Under investigation
+f71cbcbbd97bda04bc322edba6249062b8928fe62a071e37d09d4d05073c58e3,2018-07,51.516351,-0.082965,On or near Wormwood Street,Violence and sexual offences,Unable to prosecute suspect
+19d3e2e550a92a9fda72328a2c4f7d4d2ad4d1758273fdd8baa0af0f0f7ec18f,2018-07,51.51768,-0.078484,On or near Catherine Wheel Alley,Violence and sexual offences,Under investigation
+fc3702098dfc669ad0831dfc1db22bb475539b0b1991ad1b70d0d980f1d57f4a,2018-07,51.51768,-0.078484,On or near Catherine Wheel Alley,Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+09282dea6dce846011799713883d55e2ee53ac063b13f579bb7c50244acc5a5b,2018-07,51.510014,-0.081516,On or near Great Tower Street,Violence and sexual offences,Unable to prosecute suspect
+ce5e570d27d23db86ce2bae2e4c3ff8cf7f57a9da8bec72ff34f5423df632579,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Unable to prosecute suspect
+503689395450ecfd1f4fe7503c7a905388d647e61ba2514f7ecb7b6ad31604ee,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Investigation complete; no suspect identified
+f99f1232b872968432e091d41bae795a6508771f590ddee7cd22c793193a27b8,2018-07,51.511453,-0.077637,On or near Crutched Friars,Violence and sexual offences,Under investigation
+05ff963cb278dec645317c4acde1a11e34d2064da01d2d75d7f0fcaa20a2b4f8,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Unable to prosecute suspect
+98331a5e25ec9d67c903083b1fa127e1ed9399b45d84a95602fb95eebae206b9,2018-07,51.511453,-0.077637,On or near Crutched Friars,Violence and sexual offences,Under investigation
+e83fe13903170fff983a9fe11a42ff9556d0669b67238b6e65b78fa233dccec0,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Unable to prosecute suspect
+8e5ddcb3047171affaef0587076bca6a657c3f2190ee4cb81b43f7d632ca1589,2018-07,51.516814,-0.08162,On or near Alderman's Walk,Violence and sexual offences,Unable to prosecute suspect
+26fe6f1934a5cc08334f6faa99f8b4372187d9f0cf82efca39c71c77391da44e,2018-07,51.513061,-0.076459,On or near Further/higher Educational Building,Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+d82afc993e09bb024197a9e9aae5b065f11a6f950cf9faaa3dd145b54ca5202d,2018-07,51.517576,-0.079786,On or near Police Station,Violence and sexual offences,Unable to prosecute suspect
+c7c3c8d08b0b5ac7331368d7e80a653a60f4dd9af32efcd92cf65ff8a24d59d0,2018-07,51.511775,-0.075389,On or near Minories,Violence and sexual offences,Under investigation
+,2018-07,51.5134,-0.088514,Bank (lu Station),Violence and sexual offences,Under investigation
+97df23d859271e60a3dae9d42b58c2fa03c3f6c94c9452b4d6d57f7458a9391d,2018-07,51.518433,-0.078856,On or near Artillery Lane,Violence and sexual offences,Offender given a caution
+9a4dc4d35977a09675b6426b9154c47de62098fe5bbf83f6d2b528068275c0c3,2018-07,51.515033,-0.07825,On or near Houndsditch,Violence and sexual offences,Unable to prosecute suspect
+41e83e19575a62db24281f0e11bc2a2d42d41d3eb4a5b1c20dd273245301b1df,2018-07,51.516391,-0.095892,On or near Noble Street,Violence and sexual offences,Under investigation
+d29fe8aeb7e2d26371d644252c8e3744c4e500566036db41909e413a1baf97a7,2018-07,51.515033,-0.07825,On or near Houndsditch,Violence and sexual offences,Local resolution
+a2f71817a64f5cdff03e0bd008911f0043d0761b73f18ef86f8112bde5e16c22,2018-07,51.514203,-0.094628,On or near Cheapside,Violence and sexual offences,Under investigation
+68531c93cc3a1c523be43b4fc6c2054ffb877b7c15b23985b6315dd944715283,2018-07,51.518077,-0.093948,On or near Monkwell Square,Violence and sexual offences,Under investigation
+964872135a8c7d5c18505fcb5c31c8cb6e59f237e5e9658a3b7a48ba86e078e9,2018-07,51.518077,-0.093948,On or near Monkwell Square,Violence and sexual offences,Under investigation
+2a47d06b0fd7ff237927e20e34e1c956b43b77b85adb827673e356944a20a561,2018-07,51.518077,-0.093948,On or near Monkwell Square,Violence and sexual offences,Under investigation
+3b1e8f4471fd3a302f44723edce87f39dcbe15f6b7203688d1a1fc9f6d90c07c,2018-07,51.511984,-0.094231,On or near Great Trinity Lane,Violence and sexual offences,Under investigation
+0fdb6030e80c918cb5aa23b8236cc713e130391ea0de25b020ab595ddca88cc2,2018-07,51.514482,-0.090797,On or near Old Jewry,Violence and sexual offences,Under investigation
+2425bded2d3c8968e4ed0baa4da10c1813e149f59780918056b8981dcb438efe,2018-07,51.509532,-0.088843,On or near Parking Area,Violence and sexual offences,Under investigation
+96dc0e4b0a0548db1a9ce5e423563cb014c7102aa27d0e8cef302e6224302444,2018-07,51.513524,-0.090506,On or near Poultry,Violence and sexual offences,Under investigation
+cf66cee3057413e2e8b16004d9e2ef876538d968a680cd96a800f0f90559d14e,2018-07,51.51962,-0.088766,On or near Ropemaker Street,Violence and sexual offences,Under investigation
+a681650c3205ac6d11dc86d181af8a3b573ad632a1252352085e9f21c5da888d,2018-07,51.514993,-0.088456,On or near Tokenhouse Yard,Violence and sexual offences,Under investigation
+2e38c179d3b4130565d7fc07e0ff37a848138ac25a6b0e0b39c6afe5b7a07830,2018-07,51.518262,-0.088203,On or near Moorgate,Violence and sexual offences,Under investigation
+e5b90d0b35d3b8998a25115a03f0a638f19ae697116c080d7fc2401f2a1d0fb4,2018-07,51.511794,-0.088042,On or near Abchurch Lane,Violence and sexual offences,Under investigation
+956e518ded5b247d55199ad9a99fede34daa9b2dc8f77f2e98c7ee37ec37e728,2018-07,51.511794,-0.088042,On or near Abchurch Lane,Violence and sexual offences,Under investigation
+7df02cd0c1bea4966644c7ce5cd217ef414130b68377f9b0828a6d150b6fbf47,2018-07,51.511794,-0.088042,On or near Abchurch Lane,Violence and sexual offences,Under investigation
+b24c74b365224f946f49df411d668976b74860494c45e823358a04593df0e656,2018-07,51.513199,-0.087118,On or near Nightclub,Violence and sexual offences,Under investigation
+4e73c398d0f434332eaf197c1c2946e398e71a9dd7b90c911011cb92dc41b754,2018-07,51.513199,-0.087118,On or near Nightclub,Violence and sexual offences,Under investigation
+b6ec7b055bddccb1b4d533fb0c811e76af23c54933dfa31db258dc633467a417,2018-07,51.513952,-0.085833,On or near Finch Lane,Violence and sexual offences,Under investigation
+a0a9fe25ba20312958a9f13a0d08f2eac1b9ae9aebf35e8b56e9f9498d6e9af7,2018-07,51.518511,-0.08531,On or near Eldon Street,Violence and sexual offences,Under investigation
+faa0c742f2bac2625d9a396959e11bb8f65c1666132a176f2f7df8885fd39fe5,2018-07,51.515621,-0.085086,On or near Austin Friars Square,Violence and sexual offences,Under investigation
+43d08b5000f400e4f7f2be32fc278ff3ba1497e0ed09ebc016cff728ba5ed364,2018-07,51.512598,-0.084967,On or near Bell Inn Yard,Violence and sexual offences,Under investigation
+59ec7a3d8ea34b5608882388ac21493426f144ff7ab1012ff3e6346de128e0e0,2018-07,51.519703,-0.101649,On or near Grand Avenue,Violence and sexual offences,Under investigation
+b1bdd6ab2de3356a5ebba037509b47437b333e2239fc2df230e1c4870ae6b9fb,2018-07,51.51713,-0.107147,On or near St Andrew Street,Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5143,-0.075727,Aldgate (lu Station),Violence and sexual offences,Under investigation
+6a844f94435e957547decff6f42fdb88403c49c78952c54a6bd9a5f0ec4ff90d,2018-07,51.51118,-0.073065,On or near Goodman's Yard,Violence and sexual offences,Investigation complete; no suspect identified
+993fff4c6f75897f2e9c5b4b8633f4b143b118a163904549ae0287c6064a8fb2,2018-07,51.510307,-0.086764,On or near Fish Street Hill,Violence and sexual offences,Under investigation
+f33517ab72c3dd99b2d2051a8209254d396ae725202e9fdb6c2c0e109b0e5f3b,2018-07,51.513463,-0.082913,On or near Leadenhall Street,Violence and sexual offences,Under investigation
+,2018-07,51.511468,-0.09016,Cannon Street (station),Violence and sexual offences,Under investigation
+c1d3bcca7c4104a9e5cd0cb831b2f2f1456c790ebe5687b107220026d3755066,2018-07,51.514753,-0.082571,On or near Great St Helen's,Violence and sexual offences,Under investigation
+b8696b48d04ad06fc65be22cfb9504237a701696e99f3ea375a9df113c0c62ef,2018-07,51.517431,-0.082458,On or near Liverpool Street,Violence and sexual offences,Under investigation
+,2018-07,51.5116,-0.103036,Blackfriars (station),Violence and sexual offences,Under investigation
+,2018-07,51.5118,-0.076901,Fenchurch Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5118,-0.076901,Fenchurch Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5118,-0.076901,Fenchurch Street (station),Violence and sexual offences,Under investigation
+,2018-07,51.5184,-0.08903,Moorgate (lu Station),Violence and sexual offences,Under investigation
+45ba4dfad7b7a652a73ad623fd6ba2a4ee682f5bcc95b173b36e48d93a8e6aa9,2018-07,51.517431,-0.082458,On or near Liverpool Street,Violence and sexual offences,Under investigation
+,2018-07,51.5149,-0.097602,St Paul's (lu Station),Violence and sexual offences,Under investigation
+da4b0784a337aa31320174637b12dec58d0c08d652706cf78142dae6ac7b4c0a,2018-07,51.512147,-0.092077,On or near Tower Royal,Violence and sexual offences,Under investigation
+cfec04740163cac496f68acdf138b5950049ef5f12d64c34325ae0aa43c8f93b,2018-07,51.513928,-0.108231,On or near Pleydell Street,Violence and sexual offences,Unable to prosecute suspect
+44c0b2ae0c1c0514148ffa52ec9ad820d7d032f22ff8f48dc34a4d01eb279bee,2018-07,51.511529,-0.091108,On or near Cloak Lane,Violence and sexual offences,Under investigation
+d5eae2ce32c52ae1ff544fcc638b5b9de81f2b3d9e6ab6556aae80435782fdf0,2018-07,51.513928,-0.108231,On or near Pleydell Street,Violence and sexual offences,Under investigation
+608c4f8c6c75302b29c365bef7684b8156b204144181808c8f45782b7fcf469c,2018-07,51.516414,-0.107926,On or near Bartlett Court,Violence and sexual offences,Under investigation
+c6b85253add54d0915303a9a752e6014cb7c517b659d62503df58675ceafd129,2018-07,51.513581,-0.108418,On or near Lombard Lane,Violence and sexual offences,Under investigation
+c452dcb6dbab1b98267138eb3d4d798d51e94b7942d9951906a757dba4a1921e,2018-07,51.511749,-0.108018,On or near Temple Avenue,Violence and sexual offences,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other crime,Under investigation
+45b9393e98f9ea061ff1d23b326c50417f4e4ceb5cd6914c45f4d958c767304b,2018-07,51.511828,-0.080244,On or near Mark Lane,Other crime,Under investigation
+50fdd4fd5a7d46948b0acdb240b06108422e6a659542710720e22f751104f2be,2018-07,51.518511,-0.08531,On or near Eldon Street,Other crime,Under investigation
+893534f11bb94c9cbe3311e3782333e5aca439c1bb99d14d0875e298875c638c,2018-07,51.510563,-0.085355,On or near Pudding Lane,Other crime,Under investigation
+f33873f1d2f9eef3c5b74c878421e36df3b36f0b5c952ffa746c59b69f76b264,2018-07,51.511223,-0.089435,On or near Bush Lane,Other crime,Under investigation
+428b067ee0cc8ea64b7b4c167f26c4b3e8d7581b3fa95ad0c73b329272a03753,2018-07,51.518262,-0.088203,On or near Moorgate,Other crime,Suspect charged
+a7128b002ccb2ed41d06c0464958a7a30b4afd4d9be3e856bf2d62697084f3f8,2018-07,51.512856,-0.073254,On or near Mansell Street,Other crime,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other crime,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other crime,Under investigation
+9ede7d608b9d64a86488c670b26c5cf9e10996dc27fe3b347ec7c8830d8d0cbf,2018-07,51.515142,-0.097645,On or near St Martin's Le Grand,Other crime,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other crime,Under investigation
+,2018-07,51.5188,-0.081475,Liverpool Street (station),Other crime,Under investigation
+814b949b7f32d9a4a3ad7e537e4250557564801d045eab0a2485c3b3532974fd,2018-07,51.509614,-0.079011,On or near Pedestrian Subway,Other crime,Under investigation
+26306118e12cca430edb63556479f9c732685ff320d8dc12224003c4effd8eb8,2018-07,51.518262,-0.097053,On or near Aldersgate Street,Other crime,Under investigation
